@@ -1,4 +1,4 @@
-# Ceallbacks
+# Callbacks
 
 They are called from python with:
 ```python
