@@ -1,4 +1,11 @@
-# Callbacks for `SAct.SetAct("EventFunc","*<Callback>*")`
+# Ceallbacks
+
+They are called from python with:
+```python
+SAct.SetAct("EventFunc","!<CallbackName>")
+```
+
+Note the `!` symbol in front of the callback name
 
 ## OG
 
