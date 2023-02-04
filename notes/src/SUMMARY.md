@@ -8,6 +8,7 @@
     - [Netplay](./Netplay.md)
     - [Python API](./Python_API.md)
       - [Modules](./Python_Modules.md)
+      - [Callbacks](./Callbacks.md)
     - [File Formats](./File_Formats.md)
       - [Chunked Formats](./Chunked.md)
       - [Packed](./Packed.md)
