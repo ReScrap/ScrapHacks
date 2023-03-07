@@ -1,0 +1,21 @@
+[package]
+name = "scrap_parse"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.69"
+binrw = "0.11.1"
+chrono = { version = "0.4.23", features = ["serde"] }
+chrono-humanize = "0.2.2"
+clap = { version = "4.1.6", features = ["derive"] }
+configparser = { version = "3.0.2", features = ["indexmap"] }
+flate2 = "1.0.25"
+fs-err = "2.9.0"
+indexmap = { version = "1.9.2", features = ["serde"] }
+modular-bitfield = "0.11.2"
+rhexdump = "0.1.1"
+serde = { version = "1.0.152", features = ["derive"] }
+serde_json = { version = "1.0.93", features = ["unbounded_depth"] }
