@@ -5,6 +5,7 @@ use binrw::prelude::*;
 use binrw::until_exclusive;
 use chrono::{DateTime, NaiveDateTime, Utc};
 use clap::Parser;
+use clap::Subcommand;
 use configparser::ini::Ini;
 use flate2::write::GzEncoder;
 use flate2::Compression;
@@ -15,14 +16,37 @@ use modular_bitfield::specifiers::B2;
 use modular_bitfield::specifiers::B4;
 use modular_bitfield::BitfieldSpecifier;
 use serde::Serialize;
-use serde_json::Map;
-use serde_json::Value;
 use std::collections::HashMap;
 use std::fmt::Debug;
 use std::fs::File;
-use std::io::{BufReader, Read, Seek};
+use std::io::{BufReader, Cursor, Read, Seek};
 use std::path::Path;
 use std::path::PathBuf;
+use walkdir::WalkDir;
+
+mod find_scrap;
+
+type IniData = IndexMap<String, IndexMap<String, Option<String>>>;
+
+#[binread]
+#[derive(Serialize, Debug)]
+struct PackedFile{
+    path: PascalString,
+    size: u32,
+    offset: u32
+}
+
+#[binread]
+#[br(magic = b"BFPK")]
+#[derive(Serialize, Debug)]
+struct PackedHeader {
+    #[br(temp,assert(version==0))]
+    version: u32,
+    #[br(temp)]
+    num_files: u32,
+    #[br(count=num_files)]
+    files: Vec<PackedFile>,
+}
 
 #[binread]
 #[derive(Serialize, Debug)]
@@ -141,6 +165,7 @@ struct IniSection {
 #[br(magic = b"INI\0")]
 #[derive(Debug)]
 struct INI {
+    #[br(temp)]
     size: u32,
     #[br(temp)]
     num_sections: u32,
@@ -153,13 +178,17 @@ impl Serialize for INI {
     where
         S: serde::Serializer,
     {
+        use serde::ser::Error;
         let blocks: Vec<String> = self
             .sections
             .iter()
             .flat_map(|s| s.sections.iter())
             .map(|s| s.string.clone())
             .collect();
-        Ini::new().read(blocks.join("\n")).serialize(serializer)
+        Ini::new()
+            .read(blocks.join("\n"))
+            .map_err(Error::custom)?
+            .serialize(serializer)
     }
 }
 
@@ -227,7 +256,7 @@ enum Pos {
 #[repr(u32)]
 #[derive(Debug, Serialize, Copy, Clone, PartialEq, Eq, PartialOrd, Ord)]
 pub struct FVF {
-    reserved_1: bool,
+    reserved: bool,
     pos: Pos,
     normal: bool,
     point_size: bool,
@@ -267,17 +296,17 @@ impl FVF {
         }
     }
 
-    fn num_w(&self) -> usize {
-        use Pos::*;
-        match self.pos() {
-            XYZ | XYZRHW => 0,
-            XYZB1 => 1,
-            XYZB2 => 2,
-            XYZB3 => 3,
-            XYZB4 => 4,
-            XYZB5 => 5,
-        }
-    }
+    // fn num_w(&self) -> usize {
+    //     use Pos::*;
+    //     match self.pos() {
+    //         XYZ | XYZRHW => 0,
+    //         XYZB1 => 1,
+    //         XYZB2 => 2,
+    //         XYZB3 => 3,
+    //         XYZB4 => 4,
+    //         XYZB5 => 5,
+    //     }
+    // }
 }
 
 fn vertex_size_from_id(fmt_id: u32) -> Result<u32> {
@@ -361,6 +390,7 @@ struct MD3D {
     tris: Vec<[u16; 3]>,
     mesh_data: LFVF,
     unk_table_1: RawTable<2>,
+    rest: Unparsed<0x100>
     // TODO:
     // ==
     // unk_t1_count: u32,
@@ -383,7 +413,7 @@ enum NodeData {
     #[br(magic = 0x0u32)]
     Null,
     #[br(magic = 0xa1_00_00_01_u32)]
-    TriangleMesh, // Empty?
+    TriangleMesh(Unparsed<0x10>), // TODO: Empty or unused?
     #[br(magic = 0xa1_00_00_02_u32)]
     Mesh(MD3D),
     #[br(magic = 0xa2_00_00_04_u32)]
@@ -393,7 +423,7 @@ enum NodeData {
     #[br(magic = 0xa4_00_00_10_u32)]
     Ground(SUEL),
     #[br(magic = 0xa5_00_00_20_u32)]
-    SisPart(Unparsed<0x10>), // TODO: Particles
+    SistPart(Unparsed<0x10>), // TODO: Particles
     #[br(magic = 0xa6_00_00_40_u32)]
     Graphic3D(SPR3),
     #[br(magic = 0xa6_00_00_80_u32)]
@@ -522,6 +552,16 @@ struct MAP {
 }
 
 #[binread]
+#[derive(Debug, Serialize)]
+struct Textures {
+    base: Optional<MAP>,
+    metallic: Optional<MAP>,
+    unk_1: Optional<MAP>,
+    bump: Optional<MAP>,
+    glow: Optional<MAP>
+}
+
+#[binread]
 #[br(magic = b"MAT\0")]
 #[derive(Debug, Serialize)]
 struct MAT {
@@ -532,7 +572,7 @@ struct MAT {
     name: Option<PascalString>,
     unk_f: [RGBA; 7],
     unk_data: [RGBA; 0x18 / 4],
-    maps: [Optional<MAP>; 5], // Base Color, Metallic?, ???, Normal, Emission
+    maps: Textures
 }
 
 #[binread]
@@ -556,9 +596,9 @@ struct SCN {
     #[br(temp,assert(unk_3==1))]
     unk_3: u32,
     num_nodes: u32,
-    #[br(count = num_nodes)] // 32
+    #[br(count = 1)] // 32
     nodes: Vec<Node>,
-    ani: Optional<ANI>, // TODO:?
+    // ani: Optional<ANI>, // TODO: ?
 }
 
 fn convert_timestamp(dt: u32) -> Result<DateTime<Utc>> {
@@ -682,11 +722,11 @@ struct CM3 {
 #[binread]
 #[derive(Debug, Serialize)]
 struct Dummy {
+    has_next: u32,
     name: PascalString,
     pos: [f32; 3],
     rot: [f32; 3],
     info: Optional<INI>,
-    has_next: u32,
 }
 
 #[binread]
@@ -697,7 +737,6 @@ struct DUM {
     #[br(assert(version==1, "Invalid DUM version"))]
     version: u32,
     num_dummies: u32,
-    unk_1: u32,
     #[br(count=num_dummies)]
     dummies: Vec<Dummy>,
 }
@@ -826,13 +865,6 @@ enum Data {
     EMI(EMI),
 }
 
-#[derive(Parser, Debug)]
-#[command(author, version, about, long_about = None)]
-struct Args {
-    root: PathBuf,
-    path: PathBuf,
-}
-
 fn parse_file(path: &PathBuf) -> Result<Data> {
     let mut rest_size = 0;
     let mut fh = BufReader::new(fs::File::open(path)?);
@@ -842,11 +874,11 @@ fn parse_file(path: &PathBuf) -> Result<Data> {
         .unwrap_or(0)
         .try_into()
         .unwrap_or(u32::MAX);
-    println!("Read {} bytes from {}", pos, path.display());
+    eprintln!("Read {} bytes from {}", pos, path.display());
     let mut buffer = [0u8; 0x1000];
     if let Ok(n) = fh.read(&mut buffer) {
         if n != 0 {
-            println!("Rest:\n{}", rhexdump::hexdump_offset(&buffer[..n], pos));
+            eprintln!("Rest:\n{}", rhexdump::hexdump_offset(&buffer[..n], pos));
         }
     };
     while let Ok(n) = fh.read(&mut buffer) {
@@ -855,52 +887,182 @@ fn parse_file(path: &PathBuf) -> Result<Data> {
         }
         rest_size += n;
     }
-    println!("+{rest_size} unparsed bytes");
+    eprintln!("+{rest_size} unparsed bytes");
     Ok(ret)
 }
 
-fn load_ini(path: &PathBuf) -> IndexMap<String, IndexMap<String, Option<String>>> {
+fn load_ini(path: &PathBuf) -> IniData {
     Ini::new().load(path).unwrap_or_default()
 }
 
-fn load_data(root: &Path, path: &Path) -> Result<Value> {
-    let full_path = &root.join(path);
-    let emi_path = full_path.join("map").join("map3d.emi");
-    let sm3_path = emi_path.with_extension("sm3");
-    let dum_path = emi_path.with_extension("dum");
-    let config_file = emi_path.with_extension("ini");
-    let moredummies = emi_path.with_file_name("moredummies").with_extension("ini");
-    let mut data = serde_json::to_value(HashMap::<(), ()>::default())?;
-    data["config"] = serde_json::to_value(load_ini(&config_file))?;
-    data["moredummies"] = serde_json::to_value(load_ini(&moredummies))?;
-    data["emi"] = serde_json::to_value(parse_file(&emi_path)?)?;
-    data["sm3"] = serde_json::to_value(parse_file(&sm3_path)?)?;
-    data["dummies"] = serde_json::to_value(parse_file(&dum_path)?)?;
-    data["path"] = serde_json::to_value(path)?;
-    data["root"] = serde_json::to_value(root)?;
-    Ok(data)
+#[derive(Serialize, Debug)]
+
+struct Level {
+    config: IniData,
+    moredummies: IniData,
+    emi: EMI,
+    sm3: SM3,
+    dummies: DUM,
+    path: PathBuf,
+    root: PathBuf,
 }
 
-fn main() -> Result<()> {
-    let args = Args::try_parse()?;
+impl Level {
+    fn load(root: &Path, path: &Path) -> Result<Self> {
+        let full_path = &root.join(path);
+        let emi_path = full_path.join("map").join("map3d.emi");
+        let sm3_path = emi_path.with_extension("sm3");
+        let dum_path = emi_path.with_extension("dum");
+        let config_file = emi_path.with_extension("ini");
+        let moredummies = emi_path.with_file_name("moredummies").with_extension("ini");
+        let config = load_ini(&config_file);
+        let moredummies = load_ini(&moredummies);
+        let Data::EMI(emi) = parse_file(&emi_path)? else {
+            bail!("Failed to parse EMI at {emi_path}", emi_path=emi_path.display());
+        };
+        let Data::SM3(sm3) = parse_file(&sm3_path)? else {
+            bail!("Failed to parse SM3 at {sm3_path}", sm3_path=sm3_path.display());
+        };
+        let Data::DUM(dummies) = parse_file(&dum_path)? else {
+            bail!("Failed to parse DUM at {dum_path}", dum_path=dum_path.display());
+        };
+        Ok(Level {
+            config,
+            moredummies,
+            emi,
+            sm3,
+            dummies,
+            path: path.into(),
+            root: root.into(),
+        })
+    }
+}
+
+#[derive(Subcommand, Debug)]
+enum Commands {
+    FindScrapland,
+    ParsePacked {
+        scrap_path: PathBuf,
+    },
+    ParseFile {
+        #[clap(long)]
+        /// Write to stdout
+        stdout: bool,
+        /// Scrapland root path
+        root: PathBuf,
+        /// Level to parse and convert
+        level: PathBuf,
+    },
+}
+
+#[derive(Parser, Debug)]
+#[command(author, version, about, long_about = None)]
+#[command(propagate_version = true)]
+struct Args {
+    #[arg(long,short)]
+    /// Write data as JSON
+    json: bool,
+    #[command(subcommand)]
+    command: Commands,
+}
+
+fn cmd_parse_packed(root: &Path) -> Result<HashMap<PathBuf, Vec<PackedFile>>> {
+    let mut packed_map = HashMap::new();
+    for entry in WalkDir::new(root).into_iter().filter_map(|e| e.ok()) {
+        let path = entry.path();
+        if path
+            .extension()
+            .map(|e| e.to_str() == Some("packed"))
+            .unwrap_or(false)
+        {
+            let path = entry.path().to_owned();
+            let header: PackedHeader = BufReader::new(File::open(&path)?).read_le()?;
+            packed_map.insert(path, header.files);
+        }
+    }
+    Ok(packed_map)
+}
+
+fn to_bytes<T>(data: &T, json: bool) -> Result<Vec<u8>> where T: Serialize {
+    if json {
+        Ok(serde_json::to_vec_pretty(data)?)
+    } else {
+        Ok(serde_pickle::to_vec(data,Default::default())?)
+    }
+}
+
+fn cmd_parse_file(stdout: bool, root: &Path, path: &Path, json: bool) -> Result<()> {
     let out_path = PathBuf::from(
-        args.path
+        path
             .components()
             .last()
             .unwrap()
             .as_os_str()
             .to_string_lossy()
             .into_owned(),
-    )
-    .with_extension("json.gz");
-    let full_path = &args.root.join(&args.path);
-    let data = if full_path.is_dir() {
-        load_data(&args.root, &args.path)?
+    );
+    let out_path = if json {
+        out_path.with_extension("json.gz")
     } else {
-        serde_json::to_value(parse_file(full_path)?)?
+        out_path.with_extension("pkl.gz")
     };
-    let mut dumpfile = GzEncoder::new(File::create(&out_path)?, Compression::best());
-    serde_json::to_writer_pretty(&mut dumpfile, &data)?;
-    println!("Wrote {path}", path = out_path.display());
+    let full_path = &root.join(path);
+    let data = if full_path.is_dir() {
+        let level = Level::load(root, path)?;
+        to_bytes(&level,json)?
+    } else {
+        let data = parse_file(full_path)?;
+        to_bytes(&data,json)?
+    };
+    let mut data = Cursor::new(data);
+    if stdout {
+        let mut stdout = std::io::stdout().lock();
+        std::io::copy(&mut data, &mut stdout)?;
+    } else {
+        let mut fh = GzEncoder::new(File::create(&out_path)?, Compression::best());
+        std::io::copy(&mut data, &mut fh)?;
+        eprintln!("Wrote {path}", path = out_path.display());
+    };
+    Ok(())
+}
+
+fn emi_to_obj(emi: EMI) -> ! {
+    // let mut obj_data = obj::ObjData::default();
+    
+    // for mesh in emi.tri {
+    //     for vert in mesh.data.verts_1.inner.map(|d| d.data).unwrap_or_default() {
+    //         obj_data.position.push(vert.xyz);
+    //         obj_data.normal.push(vert.normal.unwrap_or_default());
+    //         obj_data.texture.push(vert.tex_1.unwrap_or_default().0.try_into().unwrap());
+    //     }
+    //     for vert in mesh.data.verts_2.inner.map(|d| d.data).unwrap_or_default() {
+    //         obj_data.position.push(vert.xyz);
+    //         obj_data.normal.push(vert.normal.unwrap_or_default());
+    //     }
+    // }
+    todo!("EMI to OBJ converter");
+}
+
+fn main() -> Result<()> {
+    let args = Args::try_parse()?;
+    match args.command {
+        Commands::FindScrapland => {
+            let data = to_bytes(&find_scrap::get_executable()?,args.json)?;
+            let mut stdout = std::io::stdout().lock();
+            std::io::copy(&mut &data[..], &mut stdout)?;
+        }
+        Commands::ParsePacked { scrap_path } => {
+            let data = to_bytes(&cmd_parse_packed(&scrap_path)?,args.json)?;
+            let mut stdout = std::io::stdout().lock();
+            std::io::copy(&mut &data[..], &mut stdout)?;
+        }
+        Commands::ParseFile {
+            stdout,
+            root,
+            level,
+        } => {
+            cmd_parse_file(stdout, &root, &level, args.json)?;
+        }
+    }
     Ok(())
 }

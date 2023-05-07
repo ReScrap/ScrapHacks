@@ -2,16 +2,16 @@ import bpy
 import sys
 import os
 import re
-import json
 import gzip
+import pickle
 import argparse
-import shutil
 from glob import glob
 from mathutils import Vector
 from pathlib import Path
 import numpy as np
 import itertools as ITT
 from pprint import pprint
+# from .. import scrap_bridge
 import bmesh
 from bpy.props import StringProperty, BoolProperty
 from bpy_extras.io_utils import ImportHelper
@@ -25,12 +25,6 @@ if "--" in sys.argv:
     parser.add_argument("file_list", nargs="+")
     cmdline = parser.parse_args(args)
 
-
-def fix_pos(xyz):
-    x, y, z = xyz
-    return x, z, y
-
-
 class ScrapImporter(object):
     def __init__(self, options):
         self.unhandled = set()
@@ -39,16 +33,22 @@ class ScrapImporter(object):
         self.model_scale = 1000.0
         self.spawn_pos = {}
         self.objects = {}
-        print("Loading", filepath)
-        with gzip.open(filepath, "r") as fh:
-            data = json.load(fh)
+        # print("Loading", filepath)
+        # scrapland_path=scrap_bridge("find-scrapland")
+        # print(scrapland_path)
+        # packed_data=scrap_bridge("parse-packed",scrapland_path)
+        # print(packed_data)
+        # get_output(["scrap_parse","parse-file","--stdout",scrapland_path,"levels/temple"])
+        # raise NotImplementedError()
+        with gzip.open(filepath, "rb") as fh:
+            data = pickle.load(fh)
         self.path = data.pop("path")
         self.root = data.pop("root")
         self.config = data.pop("config")
-        self.dummies = data.pop("dummies")["DUM"]["dummies"]
+        self.dummies = data.pop("dummies")["dummies"]
         self.moredummies = data.pop("moredummies")
-        self.emi = data.pop("emi")["EMI"]
-        self.sm3 = data.pop("sm3")["SM3"]
+        self.emi = data.pop("emi")
+        self.sm3 = data.pop("sm3")
 
     def make_empty(self, name, pos, rot=None):
         empty = bpy.data.objects.new(name, None)
@@ -119,7 +119,7 @@ class ScrapImporter(object):
         bpy.context.scene.collection.objects.link(light)
 
     def create_nodes(self):
-        for node in self.sm3["scene"]["nodes"]:
+        for node in self.sm3["scene"].get("nodes",[]):
             node_name = node["name"]
             node = node.get("content", {})
             if not node:
@@ -212,6 +212,8 @@ class ScrapImporter(object):
             )
         else:
             folders = ITT.chain([start_folder], start_folder.parents)
+        folders=list(folders)
+        print(f"Looking for {path} in {folders}")
         for folder in folders:
             for suffix in file_extensions:
                 for dds in [".", "dds"]:
@@ -227,7 +229,7 @@ class ScrapImporter(object):
         return list(filter(lambda i: (i.type, i.name) == (dtype, name), node.inputs))
 
 
-    def build_material(self, mat_key, mat_def):
+    def build_material(self, mat_key, mat_def, map_def):
         mat_props = dict(m.groups() for m in re.finditer(r"\(\+(\w+)(?::(\w*))?\)",mat_key))
         for k,v in mat_props.items():
             mat_props[k]=v or True
@@ -260,13 +262,13 @@ class ScrapImporter(object):
             "Roughness": 0.0,
             "Specular": 0.2,
         }
-        tex_slots=[
-            "Base Color",
-            "Metallic",
-            None, # "Clearcoat" ? env map?
-            "Normal",
-            "Emission"
-        ]
+        tex_slot_map={
+            "base": "Base Color",
+            "metallic":"Metallic",
+            "unk_1":None, # "Clearcoat" ? env map?
+            "bump":"Normal",
+            "glow":"Emission"
+        }
 
         mat = bpy.data.materials.new(mat_key)
         mat.use_nodes = True
@@ -275,7 +277,13 @@ class ScrapImporter(object):
         imgs = {}
         animated_textures={}
         is_transparent = True
-        for slot,tex in zip(tex_slots,mat_def["maps"]):
+        print(map_def)
+        if map_def[0]:
+            print("=== MAP[0]:",self.resolve_path(map_def[0]))
+        if map_def[2]:
+            print("=== MAP[2]:",self.resolve_path(map_def[2]))
+        for slot,tex in mat_def["maps"].items():
+            slot=tex_slot_map.get(slot)
             if (slot is None)  and tex:
                 self.unhandled.add(tex["texture"])
                 print(f"Don't know what to do with {tex}")
@@ -286,9 +294,7 @@ class ScrapImporter(object):
                 continue
             tex_name = os.path.basename(tex_file)
             if ".000." in tex_name:
-                tex_files=glob(tex_file.replace(".000.",".*."))
-                num_frames=len(tex_files)
-                animated_textures[slot]=num_frames
+                animated_textures[slot]=len(glob(tex_file.replace(".000.",".*.")))
             mat_props.update(overrides.get(tex_name,{}))
             if any(
                 tex_name.find(fragment) != -1
@@ -297,7 +303,7 @@ class ScrapImporter(object):
                 continue
             else:
                 is_transparent = False
-            imgs[slot]=bpy.data.images.load(tex_file)
+            imgs[slot]=bpy.data.images.load(tex_file,check_existing=True)
         for n in nodes:
             nodes.remove(n)
         out = nodes.new("ShaderNodeOutputMaterial")
@@ -311,7 +317,6 @@ class ScrapImporter(object):
             settings.update(glass_settings)
         for name, value in settings.items():
             shader.inputs[name].default_value = value
-        sockets_used = set()
         for socket,img in imgs.items():
             img_node = nodes.new("ShaderNodeTexImage")
             img_node.name = img.name
@@ -369,17 +374,20 @@ class ScrapImporter(object):
                 node_tree.links.new(imgs["Base Color"].outputs["Color"],transp_shader.inputs["Color"])
             shader_out=mix_shader.outputs["Shader"]
         node_tree.links.new(shader_out, out.inputs["Surface"])
+        # try:
+        #     bpy.ops.node.button()
+        # except:
+        #     pass
         return mat
 
     def apply_maps(self, ob, m_mat, m_map):
         mat_key, m_mat = m_mat
-        map_key, m_map = m_map  # TODO?: MAP
+        map_key, m_map = m_map
         if mat_key == 0:
             return
         mat_name = m_mat.get("name", f"MAT:{mat_key:08X}")
-        map_name = f"MAP:{map_key:08X}"
         if mat_name not in bpy.data.materials:
-            ob.active_material = self.build_material(mat_name, m_mat)
+            ob.active_material = self.build_material(mat_name, m_mat, m_map)
         else:
             ob.active_material = bpy.data.materials[mat_name]
 
@@ -424,17 +432,17 @@ class ScrapImporter(object):
         ob = bpy.data.objects.new(name, me)
         self.apply_maps(ob, m_mat, m_map)
         bpy.context.scene.collection.objects.link(ob)
-        self.objects.setdefault(name, []).append(ob)
+        self.objects.setdefault(name.split("(")[0], []).append(ob)
         return ob
 
 
 class Scrap_Load(Operator, ImportHelper):
 
-    bl_idname = "scrap_utils.import_json"
-    bl_label = "Import JSON"
+    bl_idname = "scrap_utils.import_pickle"
+    bl_label = "Import Pickle"
 
-    filename_ext = ".json.gz"
-    filter_glob: StringProperty(default="*.json.gz", options={"HIDDEN"})
+    filename_ext = ".pkl.gz"
+    filter_glob: StringProperty(default="*.pkl.gz", options={"HIDDEN"})
     
     create_dummies: BoolProperty(
         name="Import dummies",
@@ -447,24 +455,19 @@ class Scrap_Load(Operator, ImportHelper):
     )
 
     create_tracks: BoolProperty(
-            name="Create track curves",
-            default=True
+        name="Create track curves",
+        default=True
     )
 
     merge_objects: BoolProperty(
-            name="Merge objects by name",
-            default=False
+        name="Merge objects by name",
+        default=False
     )
 
     remove_dup_verts: BoolProperty(
-            name="Remove overlapping vertices\nfor smoother meshes",
-            default=True
+        name="Remove overlapping vertices\nfor smoother meshes",
+        default=True
     )
-
-    # remove_dup_verts: BoolProperty(
-    #         name="Remove overlapping vertices for smoother meshes",
-    #         default=False
-    # )
 
 
     def execute(self, context):
@@ -488,7 +491,7 @@ def unregister():
 if __name__ == "__main__":
     if cmdline is None or not cmdline.file_list:
         register()
-        bpy.ops.scrap_utils.import_json("INVOKE_DEFAULT")
+        bpy.ops.scrap_utils.import_pickle("INVOKE_DEFAULT")
     else:
         for file in cmdline.file_list:
             bpy.context.preferences.view.show_splash = False
