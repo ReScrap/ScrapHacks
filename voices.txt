@@ -1,0 +1,1885 @@
+challengecombatbankdirectormsg1.ogg                       - BankDirector
+challengecombatbankdirectoropt1.ogg                       - DiTritus
+challengecombatbankmastermsg1.ogg                         - BankMaster
+challengecombatbankmasteropt1.ogg                         - DiTritus
+challengecombatbertomsg1.ogg                              - Berto
+challengecombatbertoopt1.ogg                              - DiTritus
+challengecombatbettymsg1.ogg                              - Betty
+challengecombatbettyopt1.ogg                              - DiTritus
+challengecombatbishopmsg1.ogg                             - Bishop
+challengecombatbishopopt1.ogg                             - DiTritus
+challengecombatcrazygamblermsg1.ogg                       - CrazyGambler
+challengecombatcrazygambleropt1.ogg                       - DiTritus
+challengecombatfunctionarymsg1.ogg                        - Functionary
+challengecombatfunctionaryopt1.ogg                        - DiTritus
+challengecombathumphreymsg1.ogg                           - Humphrey
+challengecombathumphreyopt1.ogg                           - DiTritus
+challengecombatmayormsg1.ogg                              - Mayor
+challengecombatmayoropt1.ogg                              - DiTritus
+challengecombatmercsmsg1.ogg                              - Merc
+challengecombatmercsmsg2_filter.ogg                       - Merc (coms)
+challengecombatmercsmsg2.ogg                              - Merc
+challengecombatmercsmsg3_filter.ogg                       - Merc (coms)
+challengecombatmercsmsg3.ogg                              - Merc
+challengecombatmercsopt1.ogg                              - DiTritus
+challengecombatpolicebossmsg1.ogg                         - PoliceBoss
+challengecombatpolicebossopt1.ogg                         - DiTritus
+challengecombatpolicemsg1.ogg                             - Police
+challengecombatpoliceopt1.ogg                             - DiTritus
+challengelooserevengebankdirector.ogg                     - BankDirector (coms)
+challengelooserevengebankmaster.ogg                       - BankMaster (coms)
+challengelooserevengeberto.ogg                            - Berto (coms)
+challengelooserevengebetty.ogg                            - Betty (coms)
+challengelooserevengebishop.ogg                           - Bishop (coms)
+challengelooserevengecrazygambler.ogg                     - CrazyGambler (coms)
+challengelooserevengefunctionary.ogg                      - Functionary (coms)
+challengelooserevengehumphrey.ogg                         - Humphrey (coms)
+challengelooserevengemayor.ogg                            - Mayor (coms)
+challengelooserevengemercs.ogg                            - Merc (coms)
+challengelooserevengepolice.ogg                           - Police (coms)
+challengelooserevengepoliceboss.ogg                       - PoliceBoss (coms)
+challengemercsmsg_filter.ogg                              - Merc (coms)
+challengemercsmsg.ogg                                     - Merc
+challengeracebankdirectormsg1.ogg                         - BankDirector
+challengeracebankdirectormsg2_filter.ogg                  - BankDirector (coms)
+challengeracebankdirectormsg2.ogg                         - BankDirector
+challengeracebankdirectormsg3_filter.ogg                  - BankDirector (coms)
+challengeracebankdirectormsg3.ogg                         - BankDirector
+challengeracebankdirectoropt1.ogg                         - DiTritus
+challengeracebankmastermsg1.ogg                           - BankMaster
+challengeracebankmastermsg2_filter.ogg                    - BankMaster (coms)
+challengeracebankmastermsg2.ogg                           - BankMaster
+challengeracebankmastermsg3_filter.ogg                    - BankMaster (coms)
+challengeracebankmastermsg3.ogg                           - BankMaster
+challengeracebankmasteropt1.ogg                           - DiTritus
+challengeracebertomsg1.ogg                                - Berto
+challengeracebertomsg2_filter.ogg                         - Berto (coms)
+challengeracebertomsg2.ogg                                - Berto
+challengeracebertomsg3_filter.ogg                         - Berto (coms)
+challengeracebertomsg3.ogg                                - DiTritus
+challengeracebertoopt1.ogg                                - Betty
+challengeracebettymsg1.ogg                                - Betty
+challengeracebettymsg2_filter.ogg                         - Betty (coms)
+challengeracebettymsg2.ogg                                - Betty
+challengeracebettymsg3_filter.ogg                         - Betty (coms)
+challengeracebettymsg3.ogg                                - Betty
+challengeracebettyopt1.ogg                                - DiTritus
+challengeracebishopmsg1.ogg                               - Bishop
+challengeracebishopmsg2_filter.ogg                        - Bishop (coms)
+challengeracebishopmsg2.ogg                               - Bishop
+challengeracebishopmsg3_filter.ogg                        - Bishop (coms)
+challengeracebishopmsg3.ogg                               - Bishop
+challengeracebishopopt1.ogg                               - DiTritus
+challengeracecrazygamblermsg1.ogg                         - CrazyGambler
+challengeracecrazygamblermsg2_filter.ogg                  - CrazyGambler (coms)
+challengeracecrazygamblermsg2.ogg                         - CrazyGambler
+challengeracecrazygamblermsg3_filter.ogg                  - CrazyGambler (coms)
+challengeracecrazygamblermsg3.ogg                         - CrazyGambler
+challengeracecrazygambleropt1.ogg                         - DiTritus
+challengeracefunctionarymsg1.ogg                          - Functionary
+challengeracefunctionarymsg2_filter.ogg                   - Functionary (coms)
+challengeracefunctionarymsg2.ogg                          - Functionary
+challengeracefunctionarymsg3_filter.ogg                   - Functionary (coms)
+challengeracefunctionarymsg3.ogg                          - Functionary
+challengeracefunctionaryopt1.ogg                          - DiTritus
+challengeracehumphreymsg1.ogg                             - Humphrey
+challengeracehumphreymsg2_filter.ogg                      - Humphrey (coms)
+challengeracehumphreymsg2.ogg                             - Humphrey
+challengeracehumphreymsg3_filter.ogg                      - Humphrey (coms)
+challengeracehumphreymsg3.ogg                             - Humphrey
+challengeracehumphreyopt1.ogg                             - DiTritus
+challengeracemayormsg1.ogg                                - Mayor
+challengeracemayormsg2_filter.ogg                         - Mayor (coms)
+challengeracemayormsg2.ogg                                - Mayor
+challengeracemayormsg3_filter.ogg                         - Mayor (coms)
+challengeracemayormsg3.ogg                                - Mayor
+challengeracemayoropt1.ogg                                - DiTritus
+challengeracemercsmsg1.ogg                                - Merc
+challengeracemercsmsg2_filter.ogg                         - Merc (coms)
+challengeracemercsmsg2.ogg                                - Merc
+challengeracemercsmsg3_filter.ogg                         - Merc (coms)
+challengeracemercsmsg3.ogg                                - Merc
+challengeracemercsopt1.ogg                                - DiTritus
+challengeracepolicebossmsg1.ogg                           - PoliceBoss
+challengeracepolicebossmsg2_filter.ogg                    - PoliceBoss (coms)
+challengeracepolicebossmsg2.ogg                           - PoliceBoss
+challengeracepolicebossmsg3_filter.ogg                    - PoliceBoss (coms)
+challengeracepolicebossmsg3.ogg                           - PoliceBoss
+challengeracepolicebossopt1.ogg                           - DiTritus
+challengeracepolicemsg1.ogg                               - Police
+challengeracepolicemsg2_filter.ogg                        - Police (coms)
+challengeracepolicemsg2.ogg                               - Police
+challengeracepolicemsg3_filter.ogg                        - Police (coms)
+challengeracepolicemsg3.ogg                               - Police
+challengeracepoliceopt1.ogg                               - DiTritus
+challengeracestdmsgbankdirector_filter.ogg                - BankDirector (coms)
+challengeracestdmsgbankdirector.ogg                       - BankDirector
+challengeracestdmsgbankmaster_filter.ogg                  - BankMaster (coms)
+challengeracestdmsgbankmaster.ogg                         - BankMaster
+challengeracestdmsgberto_filter.ogg                       - Berto (coms)
+challengeracestdmsgberto.ogg                              - Berto
+challengeracestdmsgbetty_filter.ogg                       - Betty (coms)
+challengeracestdmsgbetty.ogg                              - Betty
+challengeracestdmsgbishop_filter.ogg                      - Bishop (coms)
+challengeracestdmsgbishop.ogg                             - Bishop
+challengeracestdmsgcrazygambler_filter.ogg                - CrazyGambler (coms)
+challengeracestdmsgcrazygambler.ogg                       - CrazyGambler
+challengeracestdmsgfunctionary_filter.ogg                 - Functionary (coms)
+challengeracestdmsgfunctionary.ogg                        - Functionary
+challengeracestdmsghumphrey_filter.ogg                    - Humphrey (coms)
+challengeracestdmsghumphrey.ogg                           - Humphrey
+challengeracestdmsgmayor_filter.ogg                       - Mayor (coms)
+challengeracestdmsgmayor.ogg                              - Mayor
+challengeracestdmsgpolice_filter.ogg                      - Police (coms)
+challengeracestdmsgpolice.ogg                             - Police
+challengeracestdmsgpoliceboss_filter.ogg                  - PoliceBoss (coms)
+challengeracestdmsgpoliceboss.ogg                         - PoliceBoss
+challengeracestdopt1voice.ogg                             - DiTritus
+challengeracestdopt2.ogg                                  - DiTritus
+challengeracestdopt2voice.ogg                             - DiTritus
+challengewinrevengebankdirector.ogg                       - BankDirector (coms)
+challengewinrevengebankmaster.ogg                         - BankMaster (coms)
+challengewinrevengeberto.ogg                              - Berto (coms)
+challengewinrevengebetty.ogg                              - Betty (coms)
+challengewinrevengebishop.ogg                             - Bishop (coms)
+challengewinrevengecrazygambler.ogg                       - CrazyGambler (coms)
+challengewinrevengefunctionary.ogg                        - Functionary (coms)
+challengewinrevengehumphrey.ogg                           - Humphrey (coms)
+challengewinrevengemayor.ogg                              - Mayor (coms)
+challengewinrevengemercs.ogg                              - Merc (coms)
+challengewinrevengepolice.ogg                             - Police (coms)
+challengewinrevengepoliceboss.ogg                         - PoliceBoss (coms)
+combathurryupbankdirector.ogg                             - BankDirector (coms)
+combathurryupbankmaster.ogg                               - BankMaster (coms)
+combathurryupberto.ogg                                    - Berto (coms)
+combathurryupbetty.ogg                                    - Betty (coms)
+combathurryupbishop.ogg                                   - Bishop (coms)
+combathurryupcrazygambler.ogg                             - CrazyGambler (coms)
+combathurryupfunctionary.ogg                              - Functionary (coms)
+combathurryuphumphrey.ogg                                 - Humphrey (coms)
+combathurryupmayor.ogg                                    - Mayor (coms)
+combathurryupmercenarya.ogg                               - Merc (coms)
+combathurryupmercenaryb.ogg                               - Merc (coms)
+combathurryupmercenaryc.ogg                               - Merc (coms)
+combathurryuppolice.ogg                                   - Police (coms)
+combathurryuppoliceboss.ogg                               - PoliceBoss (coms)
+generics_1stmurderbankdirector_1ans.ogg                   - BankMaster
+generics_1stmurderbankdirector_1msg.ogg                   - DiTritus
+generics_1stmurderbankdirector_2ans.ogg                   - BankMaster
+generics_1stmurderbankdirector_2msg.ogg                   - DiTritus
+generics_1stmurderberto_1ans.ogg                          - Berto
+generics_1stmurderberto_1msg.ogg                          - DiTritus
+generics_1stmurderbetty_1ans.ogg                          - Betty
+generics_1stmurderbetty_1msg.ogg                          - DiTritus
+generics_1stmurderbetty_2ans.ogg                          - Betty
+generics_1stmurderbetty_2msg.ogg                          - DiTritus
+generics_1stmurderbetty_3ans.ogg                          - Betty
+generics_1stmurderbetty_3msg.ogg                          - DiTritus
+generics_1stmurderbishop_1ans.ogg                         - Bishop
+generics_1stmurderbishop_1msg.ogg                         - DiTritus
+generics_1stmurderbishop_2ans.ogg                         - Bishop
+generics_1stmurderbishop_2msg.ogg                         - DiTritus
+generics_1stmurdercrazygambler_1ans.ogg                   - CrazyGambler
+generics_1stmurdercrazygambler_1msg.ogg                   - DiTritus
+generics_1stmurdercrazygambler_2ans.ogg                   - CrazyGambler
+generics_1stmurdercrazygambler_2msg.ogg                   - DiTritus
+generics_1stmurderfunctionary_1_1ans.ogg                  - Functionary
+generics_1stmurderfunctionary_1_1msg.ogg                  - DiTritus
+generics_1stmurderfunctionary_1ans.ogg                    - Functionary
+generics_1stmurderfunctionary_1msg.ogg                    - DiTritus
+generics_1stmurderfunctionary_2ans.ogg                    - Functionary
+generics_1stmurderfunctionary_2msg.ogg                    - DiTritus
+generics_1stmurdergear_1_1ans.ogg                         - Police
+generics_1stmurdergear_1_1msg.ogg                         - DiTritus
+generics_1stmurdergear_1ans.ogg                           - Police
+generics_1stmurdergear_1msg.ogg                           - DiTritus
+generics_1stmurdergear_2ans.ogg                           - Police
+generics_1stmurdergear_2msg.ogg                           - DiTritus
+generics_1stmurdergear_3ans.ogg                           - Police
+generics_1stmurdergear_3msg.ogg                           - DiTritus
+generics_1stmurderhumphrey_1ans.ogg                       - Humphrey
+generics_1stmurderhumphrey_1msg.ogg                       - DiTritus
+generics_1stmurderhumphrey_2ans.ogg                       - Humphrey
+generics_1stmurderhumphrey_2msg.ogg                       - DiTritus
+generics_1stmurdermayor_1_1ans.ogg                        - Mayor
+generics_1stmurdermayor_1_1msg.ogg                        - DiTritus
+generics_1stmurdermayor_1_2ans.ogg                        - Mayor
+generics_1stmurdermayor_1_2msg.ogg                        - DiTritus
+generics_1stmurdermayor_1ans.ogg                          - Mayor
+generics_1stmurdermayor_1msg.ogg                          - DiTritus
+generics_1stmurdermercs_1ans.ogg                          - Merc
+generics_1stmurdermercs_1msg.ogg                          - DiTritus
+generics_1stmurdermercs_2ans.ogg                          - Merc
+generics_1stmurdermercs_2msg.ogg                          - DiTritus
+generics_1stmurderpolice_1ans.ogg                         - Police
+generics_1stmurderpolice_1msg.ogg                         - DiTritus
+generics_1stmurderpolice_2ans.ogg                         - Police
+generics_1stmurderpolice_2msg.ogg                         - DiTritus
+generics_1stmurderpoliceboss_1ans.ogg                     - PoliceBoss
+generics_1stmurderpoliceboss_1msg.ogg                     - DiTritus
+generics_1stmurderpoliceboss_2ans.ogg                     - PoliceBoss
+generics_1stmurderpoliceboss_2msg.ogg                     - DiTritus
+generics_1stmurderpoliceboss_3ans.ogg                     - PoliceBoss
+generics_1stmurderpoliceboss_3msg.ogg                     - DiTritus
+generics_2ndmurderbankdirector_1ans.ogg                   - BankDirector
+generics_2ndmurderbankdirector_1msg.ogg                   - DiTritus
+generics_2ndmurderbankdirector_2ans.ogg                   - BankDirector
+generics_2ndmurderbankdirector_2msg.ogg                   - DiTritus
+generics_2ndmurdercrazygambler_1ans.ogg                   - CrazyGambler
+generics_2ndmurdercrazygambler_1msg.ogg                   - DiTritus
+generics_2ndmurdercrazygambler_2ans.ogg                   - CrazyGambler
+generics_2ndmurdercrazygambler_2msg.ogg                   - DiTritus
+generics_2ndmurderhumphrey_1ans.ogg                       - Humphrey
+generics_2ndmurderhumphrey_1msg.ogg                       - DiTritus
+generics_2ndmurderhumphrey_2ans.ogg                       - Humphrey
+generics_2ndmurderhumphrey_2msg.ogg                       - DiTritus
+generics_2ndmurdermayor_1_1ans.ogg                        - Mayor
+generics_2ndmurdermayor_1_1msg.ogg                        - DiTritus
+generics_2ndmurdermayor_1ans.ogg                          - Mayor
+generics_2ndmurdermayor_1msg.ogg                          - DiTritus
+generics_3rdmurderbankmaster_1ans.ogg                     - BankMaster
+generics_3rdmurderbankmaster_1msg.ogg                     - DiTritus
+generics_3rdmurderbankmaster_2ans.ogg                     - BankMaster
+generics_3rdmurderbankmaster_2msg.ogg                     - DiTritus
+generics_3rdmurderberto_1ans.ogg                          - Berto
+generics_3rdmurderberto_1msg.ogg                          - DiTritus
+generics_3rdmurderberto_2ans.ogg                          - Berto
+generics_3rdmurderberto_2msg.ogg                          - DiTritus
+generics_3rdmurdercrazygambler_1ans.ogg                   - CrazyGambler
+generics_3rdmurdercrazygambler_1msg.ogg                   - DiTritus
+generics_3rdmurdercrazygambler_2ans.ogg                   - CrazyGambler
+generics_3rdmurdercrazygambler_2msg.ogg                   - DiTritus
+generics_bankdirector_1ans.ogg                            - BankDirector
+generics_bankdirector_1msg.ogg                            - DiTritus
+generics_bankdirector_2ans.ogg                            - BankDirector
+generics_bankdirector_2msg.ogg                            - DiTritus
+generics_bankdirector_initans1.ogg                        - BankDirector
+generics_bankdirector_initans2.ogg                        - BankDirector
+generics_bankdirector_initans3.ogg                        - BankDirector
+generics_bankdirector_initmsg1.ogg                        - DiTritus
+generics_bankdirectorrace_1.ogg                           - BankDirector (coms)
+generics_bankdirectorrace_2.ogg                           - BankDirector (coms)
+generics_bankdirectortaunt_1.ogg                          - BankDirector (coms)
+generics_bankdirectortaunt_2.ogg                          - BankDirector (coms)
+generics_bankdirectortaunt_3.ogg                          - BankDirector (coms)
+generics_bankdirectortaunt_4.ogg                          - BankDirector (coms)
+generics_bankdirectortaunt_5.ogg                          - BankDirector (coms)
+generics_bankdirectortaunt_6.ogg                          - BankDirector (coms)
+generics_bankdirectortaunt_7.ogg                          - BankDirector (coms)
+generics_bankdirectortaunt_8.ogg                          - BankDirector (coms)
+generics_bankmaster_initans1.ogg                          - BankMaster
+generics_bankmaster_initans2.ogg                          - BankMaster
+generics_bankmaster_initans3.ogg                          - BankMaster
+generics_bankmaster_initmsg1.ogg                          - DiTritus
+generics_bankmastertaunt_1.ogg                            - BankMaster (coms)
+generics_bankmastertaunt_2.ogg                            - BankMaster (coms)
+generics_bankmastertaunt_3.ogg                            - BankMaster (coms)
+generics_bankmastertaunt_4.ogg                            - BankMaster (coms)
+generics_bankmastertaunt_5.ogg                            - BankMaster (coms)
+generics_bankmastertaunt_6.ogg                            - BankMaster (coms)
+generics_bankmastertaunt_8.ogg                            - BankMaster (coms)
+generics_berto_initans1.ogg                               - Berto
+generics_berto_initans2.ogg                               - Berto
+generics_berto_initans3.ogg                               - Berto
+generics_berto_initmsg1.ogg                               - DiTritus
+generics_berto_warning_1.ogg                              - Berto
+generics_berto_warning_2.ogg                              - Berto
+generics_berto_warning_3.ogg                              - Berto
+generics_bertorace_1.ogg                                  - Berto (coms)
+generics_bertorace_2.ogg                                  - Berto (coms)
+generics_bertotaunt_1.ogg                                 - Berto (coms)
+generics_bertotaunt_2.ogg                                 - Berto (coms)
+generics_bertotaunt_3.ogg                                 - Berto (coms)
+generics_bertotaunt_4.ogg                                 - Berto (coms)
+generics_bertotaunt_5.ogg                                 - Berto (coms)
+generics_bertotaunt_6.ogg                                 - Berto (coms)
+generics_bertotaunt_7.ogg                                 - Berto (coms)
+generics_bertotaunt_8.ogg                                 - Berto (coms)
+generics_betty_1ans.ogg                                   - Betty
+generics_betty_1msg.ogg                                   - DiTritus
+generics_betty_2ans.ogg                                   - Betty
+generics_betty_2msg.ogg                                   - DiTritus
+generics_betty_initans1.ogg                               - Betty
+generics_betty_initans2.ogg                               - Betty
+generics_betty_initans3.ogg                               - Betty
+generics_betty_initans4.ogg                               - Betty
+generics_betty_initmsg1.ogg                               - DiTritus
+generics_betty_initmsg2.ogg                               - DiTritus
+generics_betty_warning_1.ogg                              - Betty
+generics_betty_warning_2.ogg                              - Betty
+generics_betty_warning_3.ogg                              - Betty
+generics_bettytaunt_1.ogg                                 - Betty (coms)
+generics_bettytaunt_2.ogg                                 - Betty (coms)
+generics_bettytaunt_3.ogg                                 - Betty (coms)
+generics_bettytaunt_4.ogg                                 - Betty (coms)
+generics_bettytaunt_5.ogg                                 - Betty (coms)
+generics_bettytaunt_6.ogg                                 - Betty (coms)
+generics_bettytaunt_7.ogg                                 - Betty (coms)
+generics_bettytaunt_8.ogg                                 - Betty (coms)
+generics_bishop_1ans.ogg                                  - Bishop
+generics_bishop_1msg.ogg                                  - DiTritus
+generics_bishop_2ans.ogg                                  - Bishop
+generics_bishop_2msg.ogg                                  - DiTritus
+generics_bishop_initans1.ogg                              - Bishop
+generics_bishop_initans2.ogg                              - Bishop
+generics_bishop_initans3.ogg                              - Bishop
+generics_bishop_initmsg1.ogg                              - DiTritus
+generics_bishop_warning_1.ogg                             - Bishop
+generics_bishop_warning_2.ogg                             - Bishop
+generics_bishop_warning_3.ogg                             - Bishop
+generics_bishoprace_1.ogg                                 - Bishop (coms)
+generics_bishoprace_2.ogg                                 - Bishop (coms)
+generics_bishoptaunt_1.ogg                                - Bishop (coms)
+generics_bishoptaunt_10.ogg                               - Bishop (coms)
+generics_bishoptaunt_11.ogg                               - Bishop (coms)
+generics_bishoptaunt_12.ogg                               - Bishop (coms)
+generics_bishoptaunt_13.ogg                               - Bishop (coms)
+generics_bishoptaunt_14.ogg                               - Bishop (coms)
+generics_bishoptaunt_15.ogg                               - Bishop (coms)
+generics_bishoptaunt_16.ogg                               - Bishop (coms)
+generics_bishoptaunt_2.ogg                                - Bishop (coms)
+generics_bishoptaunt_3.ogg                                - Bishop (coms)
+generics_bishoptaunt_4.ogg                                - Bishop (coms)
+generics_bishoptaunt_5.ogg                                - Bishop (coms)
+generics_bishoptaunt_6.ogg                                - Bishop (coms)
+generics_bishoptaunt_7.ogg                                - Bishop (coms)
+generics_bishoptaunt_8.ogg                                - Bishop (coms)
+generics_bishoptaunt_9.ogg                                - Bishop (coms)
+generics_boss_initans1.ogg                                - Boss
+generics_boss_initmsg1.ogg                                - DiTritus
+generics_bosstaunt_8.ogg                                  - Boss (coms)
+generics_crazygambler_initans1.ogg                        - CrazyGambler
+generics_crazygambler_initans2.ogg                        - CrazyGambler
+generics_crazygambler_initans3.ogg                        - CrazyGambler
+generics_crazygambler_initmsg1.ogg                        - DiTritus
+generics_crazygambler_megadeal_abort_ans.ogg              - CrazyGambler
+generics_crazygambler_megadeal_abort_msg.ogg              - DiTritus
+generics_crazygambler_megadeal_no_msg.ogg                 - DiTritus
+generics_crazygambler_megadeal_no0_ans.ogg                - CrazyGambler
+generics_crazygambler_megadeal_no1_ans.ogg                - CrazyGambler
+generics_crazygambler_megadeal_no2_ans.ogg                - CrazyGambler
+generics_crazygambler_megadeal_start_ans.ogg              - CrazyGambler
+generics_crazygambler_megadeal_start_msg.ogg              - DiTritus
+generics_crazygambler_megadeal_yes_msg.ogg                - DiTritus
+generics_crazygamblertaunt_2.ogg                          - CrazyGambler (coms)
+generics_crazygamblertaunt_3.ogg                          - CrazyGambler (coms)
+generics_crazygamblertaunt_4.ogg                          - CrazyGambler (coms)
+generics_crazygamblertaunt_5.ogg                          - CrazyGambler (coms)
+generics_crazygamblertaunt_6.ogg                          - CrazyGambler (coms)
+generics_crazygamblertaunt_8.ogg                          - CrazyGambler (coms)
+generics_deepthroattaunt_1.ogg                            - Deepthroat
+generics_desktop_1ans.ogg                                 - Stapler
+generics_desktop_1msg.ogg                                 - DiTritus
+generics_desktop_2ans.ogg                                 - Stapler
+generics_desktop_2msg.ogg                                 - DiTritus
+generics_desktop_initans1.ogg                             - Stapler
+generics_desktop_initans2.ogg                             - Stapler
+generics_desktop_initans3.ogg                             - Stapler
+generics_desktop_initmsg1.ogg                             - DiTritus
+generics_disguisecrazygambler_1ans.ogg                    - CrazyGambler
+generics_disguisecrazygambler_1msg.ogg                    - DiTritus
+generics_disguiserusty_1ans.ogg                           - Rusty
+generics_disguiserusty_1msg.ogg                           - DiTritus
+generics_functionary_1ans.ogg                             - Functionary
+generics_functionary_1msg.ogg                             - DiTritus
+generics_functionary_2ans.ogg                             - Functionary
+generics_functionary_2msg.ogg                             - DiTritus
+generics_functionary_initans1.ogg                         - Functionary
+generics_functionary_initans2.ogg                         - Functionary
+generics_functionary_initans3.ogg                         - Functionary
+generics_functionary_initmsg1.ogg                         - DiTritus
+generics_functionary_warning_1.ogg                        - Functionary
+generics_functionary_warning_2.ogg                        - Functionary
+generics_functionary_warning_3.ogg                        - Functionary
+generics_functionaryrace_1.ogg                            - Functionary (coms)
+generics_functionaryrace_2.ogg                            - Functionary (coms)
+generics_functionarytaunt_1.ogg                           - Functionary (coms)
+generics_functionarytaunt_2.ogg                           - Functionary (coms)
+generics_functionarytaunt_3.ogg                           - Functionary (coms)
+generics_functionarytaunt_4.ogg                           - Functionary (coms)
+generics_functionarytaunt_5.ogg                           - Functionary (coms)
+generics_functionarytaunt_6.ogg                           - Functionary (coms)
+generics_functionarytaunt_7.ogg                           - Functionary (coms)
+generics_functionarytaunt_8.ogg                           - Functionary (coms)
+generics_gatekeeper_initans1.ogg                          - Gatekeeper
+generics_gatekeeper_initans10.ogg                         - Gatekeeper
+generics_gatekeeper_initans2.ogg                          - Gatekeeper
+generics_gatekeeper_initans3.ogg                          - Gatekeeper
+generics_gatekeeper_initans4.ogg                          - Gatekeeper
+generics_gatekeeper_initans5.ogg                          - Gatekeeper
+generics_gatekeeper_initans6.ogg                          - Gatekeeper
+generics_gatekeeper_initans7.ogg                          - Gatekeeper
+generics_gatekeeper_initans8.ogg                          - Gatekeeper
+generics_gatekeeper_initans9.ogg                          - Gatekeeper
+generics_gatekeeper_initmsg1.ogg                          - DiTritus
+generics_gear_initans1.ogg                                - Police
+generics_gear_initans2.ogg                                - Police
+generics_gear_initans3.ogg                                - Police
+generics_gear_initmsg1.ogg                                - DiTritus
+generics_gearshooting_1.ogg                               - Police
+generics_gearshooting_2.ogg                               - Police
+generics_gearshooting_3.ogg                               - Police
+generics_gearshooting_4.ogg                               - Police
+generics_gearshooting_5.ogg                               - Police
+generics_gearwarning_1.ogg                                - Police
+generics_gearwarning_10.ogg                               - Police
+generics_gearwarning_11.ogg                               - Police
+generics_gearwarning_2.ogg                                - Police
+generics_gearwarning_3.ogg                                - Police
+generics_gearwarning_4.ogg                                - Police
+generics_gearwarning_5.ogg                                - Police
+generics_gearwarning_6.ogg                                - Police
+generics_gearwarning_7.ogg                                - Police
+generics_gearwarning_8.ogg                                - Police
+generics_gearwarning_9.ogg                                - Police
+generics_humphrey_1ans.ogg                                - Humphrey
+generics_humphrey_1msg.ogg                                - DiTritus
+generics_humphrey_initans1.ogg                            - Humphrey
+generics_humphrey_initans2.ogg                            - Humphrey
+generics_humphrey_initans3.ogg                            - Humphrey
+generics_humphrey_initmsg1.ogg                            - DiTritus
+generics_humphrey_warning_1.ogg                           - Humphrey
+generics_humphrey_warning_2.ogg                           - Humphrey
+generics_humphrey_warning_3.ogg                           - Humphrey
+generics_humphreytaunt_1.ogg                              - Humphrey (coms)
+generics_humphreytaunt_2.ogg                              - Humphrey (coms)
+generics_humphreytaunt_3.ogg                              - Humphrey (coms)
+generics_humphreytaunt_4.ogg                              - Humphrey (coms)
+generics_humphreytaunt_5.ogg                              - Humphrey (coms)
+generics_humphreytaunt_6.ogg                              - Humphrey (coms)
+generics_humphreytaunt_7.ogg                              - Humphrey (coms)
+generics_humphreytaunt_8.ogg                              - Humphrey (coms)
+generics_mayor_initans1.ogg                               - Mayor
+generics_mayor_initans2.ogg                               - Mayor
+generics_mayor_initans3.ogg                               - Mayor
+generics_mayor_initmsg1.ogg                               - DiTritus
+generics_mayor_warning_1.ogg                              - Mayor
+generics_mayor_warning_2.ogg                              - Mayor
+generics_mayor_warning_3.ogg                              - Mayor
+generics_mayorrace_1.ogg                                  - Mayor (coms)
+generics_mayorrace_2.ogg                                  - Mayor (coms)
+generics_mayortaunt_1.ogg                                 - Mayor (coms)
+generics_mayortaunt_2.ogg                                 - Mayor (coms)
+generics_mayortaunt_3.ogg                                 - Mayor (coms)
+generics_mayortaunt_4.ogg                                 - Mayor (coms)
+generics_mayortaunt_5.ogg                                 - Mayor (coms)
+generics_mayortaunt_6.ogg                                 - Mayor (coms)
+generics_mayortaunt_7.ogg                                 - Mayor (coms)
+generics_mayortaunt_8.ogg                                 - Mayor (coms)
+generics_mercenaryarace_1.ogg                             - Merc
+generics_mercenaryarace_2.ogg                             - Merc
+generics_mercs_initans1.ogg                               - Merc
+generics_mercs_initans2.ogg                               - Merc
+generics_mercs_initans3.ogg                               - Merc
+generics_mercs_initmsg1.ogg                               - DiTritus
+generics_mercstaunt_1.ogg                                 - Merc (coms)
+generics_mercstaunt_10.ogg                                - Merc (coms)
+generics_mercstaunt_11.ogg                                - Merc (coms)
+generics_mercstaunt_2.ogg                                 - Merc (coms)
+generics_mercstaunt_3.ogg                                 - Merc (coms)
+generics_mercstaunt_4.ogg                                 - Merc (coms)
+generics_mercstaunt_5.ogg                                 - Merc (coms)
+generics_mercstaunt_6.ogg                                 - Merc (coms)
+generics_mercstaunt_7.ogg                                 - Merc (coms)
+generics_mercstaunt_8.ogg                                 - Merc (coms)
+generics_mercstaunt_9.ogg                                 - Merc (coms)
+generics_messenger_1ans.ogg                               - Messenger
+generics_messenger_1msg.ogg                               - DiTritus
+generics_messenger_2ans.ogg                               - Messenger
+generics_messenger_2msg.ogg                               - DiTritus
+generics_messenger_3ans.ogg                               - Messenger
+generics_messenger_3msg.ogg                               - DiTritus
+generics_messenger_initans1.ogg                           - Messenger
+generics_messenger_initans2.ogg                           - Messenger
+generics_messenger_initans3.ogg                           - Messenger
+generics_messenger_initmsg1.ogg                           - DiTritus
+generics_nurse_1ans.ogg                                   - Nurse
+generics_nurse_1msg.ogg                                   - DiTritus
+generics_nurse_2ans.ogg                                   - Nurse
+generics_nurse_2msg.ogg                                   - DiTritus
+generics_nurse_3ans.ogg                                   - Nurse
+generics_nurse_3msg.ogg                                   - DiTritus
+generics_nurse_initans1.ogg                               - Nurse
+generics_nurse_initans2.ogg                               - Nurse
+generics_nurse_initans3.ogg                               - Nurse
+generics_nurse_initmsg1.ogg                               - DiTritus
+generics_police_initans1.ogg                              - Police
+generics_police_initans2.ogg                              - Police
+generics_police_initans3.ogg                              - Police
+generics_police_initmsg1.ogg                              - DiTritus
+generics_police_remotealert1.ogg                          - Police (coms)
+generics_police_remotealert2.ogg                          - Police (coms)
+generics_police_remotealert3.ogg                          - Police (coms)
+generics_policeboss_initans1.ogg                          - PoliceBoss
+generics_policeboss_initans2.ogg                          - PoliceBoss
+generics_policeboss_initans3.ogg                          - PoliceBoss
+generics_policeboss_initmsg1.ogg                          - DiTritus
+generics_policebosstaunt_1.ogg                            - PoliceBoss (coms)
+generics_policebosstaunt_2.ogg                            - PoliceBoss (coms)
+generics_policebosstaunt_3.ogg                            - PoliceBoss (coms)
+generics_policebosstaunt_4.ogg                            - PoliceBoss (coms)
+generics_policebosstaunt_5.ogg                            - PoliceBoss (coms)
+generics_policebosstaunt_6.ogg                            - PoliceBoss (coms)
+generics_policebosstaunt_7.ogg                            - PoliceBoss (coms)
+generics_policebosstaunt_8.ogg                            - PoliceBoss (coms)
+generics_policebribecantdoans.ogg                         - DiTritus
+generics_policebribecantdomsg.ogg                         - Police
+generics_policebribegivenoans.ogg                         - DiTritus
+generics_policebribegivenomsg.ogg                         - Police
+generics_policebribegivewhyans.ogg                        - DiTritus
+generics_policebribegivewhymsg.ogg                        - Police
+generics_policebribegiveyesans.ogg                        - DiTritus
+generics_policebribegiveyesmsg.ogg                        - Police
+generics_policerace_1.ogg                                 - Police (coms)
+generics_policerace_2.ogg                                 - Police (coms)
+generics_policetaunt_1.ogg                                - Police (coms)
+generics_policetaunt_10.ogg                               - Police (coms)
+generics_policetaunt_11.ogg                               - Police (coms)
+generics_policetaunt_12.ogg                               - Police (coms)
+generics_policetaunt_13.ogg                               - Police (coms)
+generics_policetaunt_14.ogg                               - Police (coms)
+generics_policetaunt_15.ogg                               - Police (coms)
+generics_policetaunt_16.ogg                               - Police (coms)
+generics_policetaunt_2.ogg                                - Police (coms)
+generics_policetaunt_3.ogg                                - Police (coms)
+generics_policetaunt_4.ogg                                - Police (coms)
+generics_policetaunt_5.ogg                                - Police (coms)
+generics_policetaunt_6.ogg                                - Police (coms)
+generics_policetaunt_7.ogg                                - Police (coms)
+generics_policetaunt_8.ogg                                - Police (coms)
+generics_policetaunt_9.ogg                                - Police (coms)
+generics_policewarning_12.ogg                             - Police
+generics_policewarning_13.ogg                             - Police
+generics_policewereisgoinitans1.ogg                       - Police
+generics_policewereisgoinitmsg1.ogg                       - DiTritus
+generics_policewereismsg.ogg                              - DiTritus
+generics_policewereisno.ogg                               - Police
+generics_policewereisyes.ogg                              - Police
+generics_prologueberto_1ans.ogg                           - Berto
+generics_prologueberto_1msg.ogg                           - DiTritus
+generics_prologueberto_2_2ans.ogg                         - Berto
+generics_prologueberto_2_2msg.ogg                         - DiTritus
+generics_prologueberto_2ans.ogg                           - Berto
+generics_prologueberto_2msg.ogg                           - DiTritus
+generics_prologuegear_initans1.ogg                        - Police
+generics_prologuegear_initans2.ogg                        - Police
+generics_prologuegear_initans3.ogg                        - Police
+generics_prologuegear_initmsg1.ogg                        - DiTritus
+generics_prologuehumphrey_1ans.ogg                        - Humphrey
+generics_prologuehumphrey_1msg.ogg                        - DiTritus
+generics_prologuehumphrey_2ans.ogg                        - Humphrey
+generics_prologuehumphrey_2msg.ogg                        - DiTritus
+generics_prologuepolice_1_1ans.ogg                        - Police
+generics_prologuepolice_1_1msg.ogg                        - DiTritus
+generics_prologuepolice_1ans.ogg                          - Police
+generics_prologuepolice_1msg.ogg                          - DiTritus
+generics_prologuepolice_initans1.ogg                      - Police
+generics_prologuepolice_initans2.ogg                      - Police
+generics_prologuepolice_initans3.ogg                      - Police
+generics_prologuepolice_initmsg1.ogg                      - DiTritus
+generics_prologuesentinel_1_1ans.ogg                      - Sentinel
+generics_prologuesentinel_1_1msg.ogg                      - DiTritus
+generics_prologuesentinel_1_2ans.ogg                      - Sentinel
+generics_prologuesentinel_1_2msg.ogg                      - DiTritus
+generics_prologuesentinel_1ans.ogg                        - Sentinel
+generics_prologuesentinel_1msg.ogg                        - DiTritus
+generics_rusty_1_1ans.ogg                                 - Rusty
+generics_rusty_1_1msg.ogg                                 - DiTritus
+generics_rusty_1ans.ogg                                   - Rusty
+generics_rusty_1msg.ogg                                   - DiTritus
+generics_rusty_2ans.ogg                                   - Rusty
+generics_rusty_2msg.ogg                                   - DiTritus
+generics_rusty_3_1ans.ogg                                 - Rusty
+generics_rusty_3_1msg.ogg                                 - DiTritus
+generics_rusty_3ans.ogg                                   - Rusty
+generics_rusty_3msg.ogg                                   - DiTritus
+generics_rusty_initans1.ogg                               - Rusty
+generics_rusty_initans2.ogg                               - Rusty
+generics_rusty_initans3.ogg                               - Rusty
+generics_rusty_initmsg1.ogg                               - DiTritus
+generics_rusty_remotemessage3.ogg                         - Rusty
+generics_sebastian_1ans.ogg                               - Sebastian
+generics_sebastian_1msg.ogg                               - DiTritus
+generics_sebastian_2_1ans.ogg                             - Sebastian
+generics_sebastian_2_1msg.ogg                             - DiTritus
+generics_sebastian_2ans.ogg                               - Sebastian
+generics_sebastian_2msg.ogg                               - DiTritus
+generics_sebastian_3ans.ogg                               - Sebastian
+generics_sebastian_3msg.ogg                               - DiTritus
+generics_sebastian_initans1.ogg                           - Sebastian
+generics_sebastian_initans2.ogg                           - Sebastian
+generics_sebastian_initans3.ogg                           - Sebastian
+generics_sebastian_initmsg1.ogg                           - DiTritus
+generics_sentinel_1_1ans.ogg                              - Sentinel
+generics_sentinel_1_1msg.ogg                              - DiTritus
+generics_sentinel_1ans.ogg                                - Sentinel
+generics_sentinel_1msg.ogg                                - DiTritus
+generics_sentinel_initans1.ogg                            - Sentinel
+generics_sentinel_initans2.ogg                            - Sentinel
+generics_sentinel_initans3.ogg                            - Sentinel
+generics_sentinel_initmsg1.ogg                            - DiTritus
+generics_specialbishop_1ans.ogg                           - Bishop
+generics_specialbishop_1msg.ogg                           - DiTritus
+generics_specialbishop_2ans.ogg                           - Bishop
+generics_specialbishop_3ans.ogg                           - DiTritus
+generics_specialmercs_1ans.ogg                            - Merc
+generics_specialmercs_1msg.ogg                            - DiTritus
+generics_specialmercs_2ans.ogg                            - Merc
+generics_specialmercs_3ans.ogg                            - DiTritus
+generics_stillpolice1_banker.ogg                          - BankDirector
+generics_stillpolice1_berto.ogg                           - Berto
+generics_stillpolice1_betty.ogg                           - Betty
+generics_stillpolice1_bishop.ogg                          - Bishop
+generics_stillpolice1_boss.ogg                            - Boss
+generics_stillpolice1_bossbanker.ogg                      - BankMaster
+generics_stillpolice1_crazygambler.ogg                    - CrazyGambler
+generics_stillpolice1_deepthroat.ogg                      - Deepthroat
+generics_stillpolice1_functionary.ogg                     - Functionary
+generics_stillpolice1_humphrey.ogg                        - Humphrey
+generics_stillpolice1_mayor.ogg                           - Mayor
+generics_stillpolice1_mercenarya.ogg                      - Merc
+generics_stillpolice1_mercenaryb.ogg                      - Merc
+generics_stillpolice1_mercenaryc.ogg                      - Merc
+generics_stillpolice1_messenger.ogg                       - Messenger
+generics_stillpolice1_police.ogg                          - Police
+generics_stillpolice1_policeboss.ogg                      - PoliceBoss
+looserevengecombatinitansbankdirector.ogg                 - BankDirector (coms)
+looserevengecombatinitansbankmaster.ogg                   - BankMaster (coms)
+looserevengecombatinitansberto.ogg                        - Berto (coms)
+looserevengecombatinitansbetty.ogg                        - Betty (coms)
+looserevengecombatinitansbishop.ogg                       - Bishop (coms)
+looserevengecombatinitanscrazygambler.ogg                 - CrazyGambler (coms)
+looserevengecombatinitansfunctionary.ogg                  - Functionary (coms)
+looserevengecombatinitanshumphrey.ogg                     - Humphrey (coms)
+looserevengecombatinitansmayor.ogg                        - Mayor (coms)
+looserevengecombatinitansmercs.ogg                        - Merc (coms)
+looserevengecombatinitanspolice.ogg                       - Police (coms)
+looserevengecombatinitanspoliceboss.ogg                   - PoliceBoss (coms)
+looserevengecombatinitmsg.ogg                             - DiTritus
+looserevengeraceinitansbankdirector.ogg                   - BankDirector (coms)
+looserevengeraceinitansbankmaster.ogg                     - BankMaster (coms)
+looserevengeraceinitansberto.ogg                          - Berto (coms)
+looserevengeraceinitansbetty.ogg                          - Betty (coms)
+looserevengeraceinitansbishop.ogg                         - Bishop (coms)
+looserevengeraceinitanscrazygambler.ogg                   - CrazyGambler (coms)
+looserevengeraceinitansfunctionary.ogg                    - Functionary (coms)
+looserevengeraceinitanshumphrey.ogg                       - Humphrey (coms)
+looserevengeraceinitansmayor.ogg                          - Mayor (coms)
+looserevengeraceinitansmercs.ogg                          - Merc (coms)
+looserevengeraceinitanspolice.ogg                         - Police (coms)
+looserevengeraceinitanspoliceboss.ogg                     - PoliceBoss (coms)
+looserevengeraceinitmsg.ogg                               - DiTritus
+mission_ambush1_remotemessage1.ogg                        - Deepthroat
+mission_ambush1_traitorius_ni_1ans.ogg                    - Functionary (coms)
+mission_ambush1_traitorius_ni_1msg.ogg                    - DiTritus
+mission_ambush2_remotemessage1.ogg                        - Deepthroat
+mission_ambush2_remotemessage2.ogg                        - Deepthroat
+mission_ambush2_remotemessage3.ogg                        - Deepthroat
+mission_ambush2_remotemessage4.ogg                        - Deepthroat
+mission_apologizemayor_mayor_1ans.ogg                     - Mayor
+mission_apologizemayor_mayor_1msg.ogg                     - DiTritus
+mission_apologizemayor_mayor_initans1.ogg                 - Mayor
+mission_apologizemayor_mayor_initans2.ogg                 - Mayor
+mission_apologizemayor_mayor_initmsg1.ogg                 - DiTritus
+mission_apologizemayor_mayor_initmsg2.ogg                 - DiTritus
+mission_archbishopinterview_bishop_initans2.ogg           - Bishop
+mission_archbishopinterview_bishop_initmsg2.ogg           - DiTritus
+mission_archbishopinterview_remotemessage1.ogg            - ArchBishop (speech)
+mission_archbishopkilled_humphrey_initans2.ogg            - Humphrey
+mission_archbishopkilled_humphrey_initmsg2.ogg            - DiTritus
+mission_archbishopkilled_remotemessage2.ogg               - CrazyGambler (coms)
+mission_archbishopkilled_remotemessage3.ogg               - CrazyGambler (coms)
+mission_archbishopkilled_remotemessage4.ogg               - CrazyGambler (coms)
+mission_archbishopkilled_remotemessage5.ogg               - CrazyGambler (coms)
+mission_archbishopkilled_remotemessage6.ogg               - CrazyGambler (coms)
+mission_archbishopkilled_remotemessage7.ogg               - CrazyGambler (coms)
+mission_arrangebankerscombat_crazygambler_1_1ans.ogg      - CrazyGambler
+mission_arrangebankerscombat_crazygambler_1_1msg.ogg      - DiTritus
+mission_arrangebankerscombat_crazygambler_1_2ans.ogg      - CrazyGambler
+mission_arrangebankerscombat_crazygambler_1_2msg.ogg      - DiTritus
+mission_arrangebankerscombat_crazygambler_1ans.ogg        - CrazyGambler
+mission_arrangebankerscombat_crazygambler_1msg.ogg        - DiTritus
+mission_arrangebankerscombat_crazygambler_initans1.ogg    - CrazyGambler
+mission_arrangebankerscombat_crazygambler_initmsg1.ogg    - DiTritus
+mission_arrangebankerscombat_policeboss_initans1.ogg      - PoliceBoss
+mission_arrangebankerscombat_policeboss_initmsg1.ogg      - DiTritus
+mission_arrangeigorcombat_crazygambler_1_1ans.ogg         - CrazyGambler
+mission_arrangeigorcombat_crazygambler_1_1msg.ogg         - DiTritus
+mission_arrangeigorcombat_crazygambler_1_2ans.ogg         - CrazyGambler
+mission_arrangeigorcombat_crazygambler_1_2msg.ogg         - DiTritus
+mission_arrangeigorcombat_crazygambler_1ans.ogg           - CrazyGambler
+mission_arrangeigorcombat_crazygambler_1msg.ogg           - DiTritus
+mission_arrangeigorcombat_crazygambler_initans1.ogg       - CrazyGambler
+mission_arrangeigorcombat_crazygambler_initmsg1.ogg       - DiTritus
+mission_arrangeigorcombat_remotemessage1.ogg              - Rusty (coms)
+mission_arrangemortalrace_crazygambler_1_1ans.ogg         - CrazyGambler
+mission_arrangemortalrace_crazygambler_1_1msg.ogg         - DiTritus
+mission_arrangemortalrace_crazygambler_1_2ans.ogg         - CrazyGambler
+mission_arrangemortalrace_crazygambler_1_2msg.ogg         - DiTritus
+mission_arrangemortalrace_crazygambler_1ans.ogg           - CrazyGambler
+mission_arrangemortalrace_crazygambler_1msg.ogg           - DiTritus
+mission_arrangemortalrace_crazygambler_initans1.ogg       - CrazyGambler
+mission_arrangemortalrace_crazygambler_initmsg1.ogg       - DiTritus
+mission_arrangetraitoriuscombat_crazygambler_1_1ans.ogg   - CrazyGambler
+mission_arrangetraitoriuscombat_crazygambler_1_1msg.ogg   - DiTritus
+mission_arrangetraitoriuscombat_crazygambler_1_2ans.ogg   - CrazyGambler
+mission_arrangetraitoriuscombat_crazygambler_1_2msg.ogg   - DiTritus
+mission_arrangetraitoriuscombat_crazygambler_1ans.ogg     - CrazyGambler
+mission_arrangetraitoriuscombat_crazygambler_1msg.ogg     - DiTritus
+mission_arrangetraitoriuscombat_crazygambler_initans1.ogg - CrazyGambler
+mission_arrangetraitoriuscombat_crazygambler_initmsg1.ogg - DiTritus
+mission_askpickus_initans1.ogg                            - Functionary
+mission_askpickus_initmsg1.ogg                            - DiTritus
+mission_attacktraitorius_remotemessage1.ogg               - Functionary (coms)
+mission_attacktraitorius_remotemessage2.ogg               - Functionary (coms)
+mission_attacktraitorius_remotemessage3.ogg               - Functionary (coms)
+mission_attacktraitorius_remotemessage4.ogg               - Functionary (coms)
+mission_attacktraitorius_remotemessage5.ogg               - Deepthroat
+mission_attacktraitorius_remotemessage6.ogg               - Functionary (coms)
+mission_bertomassacre_remotemessage1.ogg                  - Deepthroat
+mission_bertomassacre_remotemessage2.ogg                  - Deepthroat
+mission_bertomassacre_remotemessage3.ogg                  - Deepthroat
+mission_byebyetrurl_comdeepthroat_ni_1ans.ogg             - Deepthroat
+mission_byebyetrurl_comdeepthroat_ni_1msg.ogg             - DiTritus
+mission_byebyetrurl_comdeepthroat_ni_2ans.ogg             - Deepthroat
+mission_byebyetrurl_comdeepthroat_ni_2msg.ogg             - DiTritus
+mission_byebyetrurl_comdeepthroat_ni_3ans.ogg             - Deepthroat
+mission_byebyetrurl_comdeepthroat_ni_3msg.ogg             - DiTritus
+mission_byebyetrurl_comtrurl_ni_1ans.ogg                  - Messenger
+mission_byebyetrurl_comtrurl_ni_1msg.ogg                  - DiTritus
+mission_calldeepthroat_comdeepthroat_ni_1ans.ogg          - Deepthroat
+mission_calldeepthroat_comdeepthroat_ni_1msg.ogg          - DiTritus
+mission_calldeepthroat_comdeepthroat_ni_2ans.ogg          - Deepthroat
+mission_calldeepthroat_comdeepthroat_ni_2msg.ogg          - DiTritus
+mission_calldeepthroat_comdeepthroat_ni_3ans.ogg          - Deepthroat
+mission_calldeepthroat_comdeepthroat_ni_3msg.ogg          - DiTritus
+mission_calldeepthroat_comdeepthroat_ni_4ans.ogg          - Deepthroat
+mission_calldeepthroat_comdeepthroat_ni_4msg.ogg          - DiTritus
+mission_calldeepthroat2_comdeepthroat_ni_1ans.ogg         - Deepthroat
+mission_calldeepthroat2_comdeepthroat_ni_1msg.ogg         - DiTritus
+mission_calldeepthroat2_comdeepthroat_ni_2ans.ogg         - Deepthroat
+mission_calldeepthroat2_comdeepthroat_ni_2msg.ogg         - DiTritus
+mission_calldeepthroat2_comdeepthroat_ni_3ans.ogg         - Deepthroat
+mission_calldeepthroat2_comdeepthroat_ni_3msg.ogg         - DiTritus
+mission_campaign_functionary_initans1.ogg                 - Functionary
+mission_campaign_functionary_initmsg1.ogg                 - DiTritus
+mission_campaign1_mayor_initans1.ogg                      - Mayor
+mission_campaign1_mayor_initmsg1.ogg                      - DiTritus
+mission_campaign1_porkins_initans1.ogg                    - Bishop
+mission_campaign1_porkins_initmsg1.ogg                    - DiTritus
+mission_campaign1_remotemessage1.ogg                      - Mayor (coms)
+mission_campaign1_remotemessage2.ogg                      - Mayor (coms)
+mission_campaign2_mayor_initans1.ogg                      - Mayor
+mission_campaign2_mayor_initmsg1.ogg                      - DiTritus
+mission_campaign2_remotemessage1.ogg                      - Mayor (coms)
+mission_campaign2_remotemessage2.ogg                      - Functionary (coms)
+mission_campaign2_remotemessage3.ogg                      - Mayor (coms)
+mission_campaign2_remotemessage4.ogg                      - Deepthroat
+mission_campaign2_remotemessage5.ogg                      - Rusty (coms)
+mission_campaign2_remotemessage6.ogg                      - Bishop (coms)
+mission_campaign2_remotemessage7.ogg                      - Mayor (coms)
+mission_campaign2_remotemessage8.ogg                      - Mayor (coms)
+mission_checkin_remotemessage1.ogg                        - Checkin
+mission_checkin_remotemessage2.ogg                        - Checkin
+mission_checkin_sentinel_1ans.ogg                         - Sentinel
+mission_checkin_sentinel_1msg.ogg                         - DiTritus
+mission_checkin_sentinel_2ans.ogg                         - Sentinel
+mission_checkin_sentinel_2msg.ogg                         - DiTritus
+mission_checkin_sentinel_initans1.ogg                     - Sentinel
+mission_checkin_sentinel_initmsg1.ogg                     - DiTritus
+mission_ctfagainstbankers_remotemessage1.ogg              - CrazyGambler (coms)
+mission_ctfagainstbankers_remotemessage2.ogg              - Functionary (coms)
+mission_ctfagainstbankers_remotemessage3.ogg              - Functionary (coms)
+mission_ctfagainstbankers_traitorius_initans1.ogg         - Functionary
+mission_ctfagainstbankers_traitorius_initmsg1.ogg         - DiTritus
+mission_ctfagainstbankers_traitorius_ni_1ans.ogg          - Functionary
+mission_ctfagainstbankers_traitorius_ni_1msg.ogg          - DiTritus
+mission_ctfagainstbankers_traitorius_ni_2ans.ogg          - Functionary
+mission_ctfagainstbankers_traitorius_ni_2msg.ogg          - DiTritus
+mission_ctfagainstbankers_traitorius_ni_3ans.ogg          - Functionary
+mission_ctfagainstbankers_traitorius_ni_3msg.ogg          - DiTritus
+mission_decontamination_gatekeeper_1ans.ogg               - Gatekeeper
+mission_decontamination_gatekeeper_1msg.ogg               - DiTritus
+mission_decontamination_gatekeeper_2ans.ogg               - Gatekeeper
+mission_decontamination_gatekeeper_2msg.ogg               - DiTritus
+mission_decontamination_gatekeeper_3ans.ogg               - Gatekeeper
+mission_decontamination_gatekeeper_3msg.ogg               - DiTritus
+mission_decontamination_gatekeeper_4ans.ogg               - Gatekeeper
+mission_decontamination_gatekeeper_4msg.ogg               - DiTritus
+mission_decontamination_gatekeeper_5ans.ogg               - Gatekeeper
+mission_decontamination_gatekeeper_5msg.ogg               - DiTritus
+mission_decontamination_gatekeeper_initans1.ogg           - Gatekeeper
+mission_decontamination_gatekeeper_initmsg1.ogg           - DiTritus
+mission_decontamination_remotemessage1.ogg                - Checkin
+mission_decontamination_remotemessage2.ogg                - Checkin
+mission_decontamination_remotemessage3.ogg                - Checkin
+mission_decontamination_remotemessage4.ogg                - Checkin
+mission_defeatcrazygambler1_remotemessage1.ogg            - Deepthroat
+mission_defeatcrazygambler1_remotemessage2.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler1_remotemessage3.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler1_remotemessage4.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler1_remotemessage5.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler1_remotemessage6.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler1_remotemessage7.ogg            - Deepthroat
+mission_defeatcrazygambler2_remotemessage1.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler2_remotemessage2.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler2_remotemessage3.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler2_remotemessage4.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler2_remotemessage5.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler2_remotemessage6.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler2_remotemessage7.ogg            - Deepthroat
+mission_defeatcrazygambler3_remotemessage1.ogg            - Deepthroat
+mission_defeatcrazygambler3_remotemessage2.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler3_remotemessage3.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler3_remotemessage4.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler3_remotemessage5.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler3_remotemessage6.ogg            - CrazyGambler (coms)
+mission_defeatcrazygambler3_remotemessage7.ogg            - Deepthroat
+mission_defeatcrazygambler4_remotemessage1.ogg            - Deepthroat
+mission_destroybaddebtors_remotemessage1.ogg              - Merc (coms)
+mission_destroybaddebtors_remotemessage10.ogg             - Merc (coms)
+mission_destroybaddebtors_remotemessage2.ogg              - Merc (coms)
+mission_destroybaddebtors_remotemessage3.ogg              - BankMaster (coms)
+mission_destroybaddebtors_remotemessage4.ogg              - Deepthroat
+mission_destroybaddebtors_remotemessage5.ogg              - BankMaster (coms)
+mission_destroybaddebtors_remotemessage6.ogg              - Deepthroat
+mission_destroybaddebtors_remotemessage7.ogg              - BankDirector (coms)
+mission_destroybaddebtors_remotemessage8.ogg              - BankDirector (coms)
+mission_destroybaddebtors_remotemessage9.ogg              - BankDirector (coms)
+mission_destroyberto_remotemessage1.ogg                   - Deepthroat
+mission_destroycommsats1_crazygambler_initans1.ogg        - CrazyGambler
+mission_destroycommsats1_crazygambler_initmsg1.ogg        - DiTritus
+mission_destroycommsats1_human_initans1.ogg               - Human
+mission_destroycommsats1_human_initmsg1.ogg               - DiTritus
+mission_destroycommsats1_merc_initans1.ogg                - Merc
+mission_destroycommsats1_merc_initmsg1.ogg                - DiTritus
+mission_destroycommsats1_remotemessage1.ogg               - CrazyGambler (coms)
+mission_destroycommsats2_remotemessage1.ogg               - CrazyGambler (coms)
+mission_destroycommsats3_remotemessage1.ogg               - CrazyGambler (coms)
+mission_destroyhumphrey_berto_initans1.ogg                - Berto
+mission_destroyhumphrey_berto_initmsg1.ogg                - DiTritus
+mission_destroyhumphrey_betty_initans1.ogg                - Betty
+mission_destroyhumphrey_betty_initmsg1.ogg                - DiTritus
+mission_destroyhumphrey_remotemessage1.ogg                - CrazyGambler (coms)
+mission_destroyhumphrey_remotemessage2.ogg                - Humphrey (coms)
+mission_destroyhumphrey_remotemessage3.ogg                - Humphrey (coms)
+mission_destroyhumphrey_remotemessage4.ogg                - Humphrey (coms)
+mission_destroyhumphrey_remotemessage5.ogg                - Humphrey (coms)
+mission_destroyhumphrey_remotemessage6.ogg                - Betty (coms)
+mission_destroyhumphrey_remotemessage7.ogg                - Boss (coms)
+mission_destroypolice_crazygambler_initans1.ogg           - CrazyGambler
+mission_destroypolice_crazygambler_initmsg1.ogg           - DiTritus
+mission_destroypolice_remotemessage1.ogg                  - CrazyGambler (coms)
+mission_destroypolice_remotemessage2.ogg                  - CrazyGambler (coms)
+mission_destroypolice_remotemessage3.ogg                  - CrazyGambler (coms)
+mission_destroypolice_remotemessage4.ogg                  - CrazyGambler (coms)
+mission_destroypolice_remotemessage5.ogg                  - Bishop (coms)
+mission_destroypolice_remotemessage6.ogg                  - Berto (coms)
+mission_destroypolice_remotemessage7.ogg                  - Rusty (coms)
+mission_destroystupidus_remotemessage1.ogg                - Deepthroat
+mission_destroystupidus_remotemessage2.ogg                - Deepthroat
+mission_distracthumphrey_remotemessage1.ogg               - Deepthroat
+mission_distracthumphrey_remotemessage10.ogg              - Humphrey (coms)
+mission_distracthumphrey_remotemessage11.ogg              - Humphrey (coms)
+mission_distracthumphrey_remotemessage12.ogg              - Humphrey (coms)
+mission_distracthumphrey_remotemessage13.ogg              - Humphrey (coms)
+mission_distracthumphrey_remotemessage14.ogg              - Humphrey (coms)
+mission_distracthumphrey_remotemessage15.ogg              - Humphrey (coms)
+mission_distracthumphrey_remotemessage16.ogg              - Humphrey (coms)
+mission_distracthumphrey_remotemessage17.ogg              - Deepthroat
+mission_distracthumphrey_remotemessage2.ogg               - Deepthroat
+mission_distracthumphrey_remotemessage3.ogg               - Deepthroat
+mission_distracthumphrey_remotemessage4.ogg               - Deepthroat
+mission_distracthumphrey_remotemessage5.ogg               - Deepthroat
+mission_distracthumphrey_remotemessage6.ogg               - Deepthroat
+mission_distracthumphrey_remotemessage7.ogg               - Humphrey (coms)
+mission_distracthumphrey_remotemessage8.ogg               - Humphrey (coms)
+mission_distracthumphrey_remotemessage9.ogg               - Humphrey (coms)
+mission_facethemayor_remotemessage1.ogg                   - Deepthroat
+mission_facethemayor_remotemessage2.ogg                   - Mayor (coms)
+mission_facethemayor_remotemessage3.ogg                   - Deepthroat
+mission_finalfight_initans1.ogg                           - CrazyGambler
+mission_finalfight_initans2.ogg                           - Merc
+mission_finalfight_initmsg1.ogg                           - DiTritus
+mission_finalfight_initmsg2.ogg                           - CrazyGambler (coms)
+mission_finalfight_remotemessage1.ogg                     - Boss (coms)
+mission_finalfight_remotemessage10.ogg                    - Boss (coms)
+mission_finalfight_remotemessage11.ogg                    - Boss (coms)
+mission_finalfight_remotemessage12.ogg                    - Boss (coms)
+mission_finalfight_remotemessage13.ogg                    - CrazyGambler (coms)
+mission_finalfight_remotemessage14.ogg                    - Boss (coms)
+mission_finalfight_remotemessage15.ogg                    - Boss (coms)
+mission_finalfight_remotemessage16.ogg                    - Boss (coms)
+mission_finalfight_remotemessage17.ogg                    - CrazyGambler (coms)
+mission_finalfight_remotemessage18.ogg                    - Boss (coms)
+mission_finalfight_remotemessage19.ogg                    - Boss (coms)
+mission_finalfight_remotemessage2.ogg                     - Boss (coms)
+mission_finalfight_remotemessage20.ogg                    - Boss (coms)
+mission_finalfight_remotemessage21.ogg                    - CrazyGambler (coms)
+mission_finalfight_remotemessage22.ogg                    - Boss (coms)
+mission_finalfight_remotemessage23.ogg                    - Boss (coms)
+mission_finalfight_remotemessage24.ogg                    - Boss (coms)
+mission_finalfight_remotemessage25.ogg                    - Boss (coms)
+mission_finalfight_remotemessage3.ogg                     - Boss (coms)
+mission_finalfight_remotemessage4.ogg                     - Boss (coms)
+mission_finalfight_remotemessage5.ogg                     - CrazyGambler (coms)
+mission_finalfight_remotemessage6.ogg                     - Boss (coms)
+mission_finalfight_remotemessage7.ogg                     - Boss (coms)
+mission_finalfight_remotemessage8.ogg                     - Boss (coms)
+mission_finalfight_remotemessage9.ogg                     - CrazyGambler (coms)
+mission_finddtritusmatrix1_mercenary_1ans.ogg             - Merc
+mission_finddtritusmatrix1_mercenary_1msg.ogg             - DiTritus
+mission_finddtritusmatrix1_mercenary_initans1.ogg         - Merc
+mission_finddtritusmatrix1_mercenary_initmsg1.ogg         - DiTritus
+mission_finddtritusmatrix1_remotemessage2.ogg             - Deepthroat
+mission_finddtritusmatrix1_remotemessage3.ogg             - Deepthroat
+mission_finddtritusmatrix1_remotemessage4.ogg             - Deepthroat
+mission_finddtritusmatrix1_remotemessage5.ogg             - Deepthroat
+mission_findhumphrey_humphrey_initans1.ogg                - Humphrey
+mission_findhumphrey_humphrey_initmsg1.ogg                - DiTritus
+mission_findhumphrey_remotemessage1.ogg                   - Deepthroat
+mission_findtrurl_trurl_ni_1ans.ogg                       - Messenger
+mission_findtrurl_trurl_ni_1msg.ogg                       - DiTritus
+mission_findtrurl_trurl_ni_2ans.ogg                       - Messenger
+mission_findtrurl_trurl_ni_2msg.ogg                       - DiTritus
+mission_findtrurl_trurl_ni_3ans.ogg                       - Messenger
+mission_findtrurl_trurl_ni_3msg.ogg                       - DiTritus
+mission_firstcontactmercs_averagemerc_1_1_1ans.ogg        - Merc
+mission_firstcontactmercs_averagemerc_1_1_1msg.ogg        - DiTritus
+mission_firstcontactmercs_averagemerc_1_1ans.ogg          - Merc
+mission_firstcontactmercs_averagemerc_1_1msg.ogg          - DiTritus
+mission_firstcontactmercs_averagemerc_1ans.ogg            - Merc
+mission_firstcontactmercs_averagemerc_1msg.ogg            - DiTritus
+mission_firstcontactmercs_averagemerc_initans1.ogg        - Merc
+mission_firstcontactmercs_averagemerc_initmsg1.ogg        - DiTritus
+mission_firstcontactmercs_remotemessage1.ogg              - CrazyGambler (coms)
+mission_firstcontactmercs_remotemessage2.ogg              - CrazyGambler (coms)
+mission_firstcontactmercs_remotemessage3.ogg              - CrazyGambler (coms)
+mission_firstcontactmercs_smartmerc_1_1_1ans.ogg          - Merc
+mission_firstcontactmercs_smartmerc_1_1_1msg.ogg          - DiTritus
+mission_firstcontactmercs_smartmerc_1_1ans.ogg            - Merc
+mission_firstcontactmercs_smartmerc_1_1msg.ogg            - DiTritus
+mission_firstcontactmercs_smartmerc_1ans.ogg              - Merc
+mission_firstcontactmercs_smartmerc_1msg.ogg              - DiTritus
+mission_firstcontactmercs_smartmerc_initans1.ogg          - Merc
+mission_firstcontactmercs_smartmerc_initmsg1.ogg          - DiTritus
+mission_firstcontactmercs_stupidmerc_1_1_1ans.ogg         - Merc
+mission_firstcontactmercs_stupidmerc_1_1_1msg.ogg         - DiTritus
+mission_firstcontactmercs_stupidmerc_1_1ans.ogg           - Merc
+mission_firstcontactmercs_stupidmerc_1_1msg.ogg           - DiTritus
+mission_firstcontactmercs_stupidmerc_1ans.ogg             - Merc
+mission_firstcontactmercs_stupidmerc_1msg.ogg             - DiTritus
+mission_firstcontactmercs_stupidmerc_initans1.ogg         - Merc
+mission_firstcontactmercs_stupidmerc_initans2.ogg         - DiTritus
+mission_firstcontactmercs_stupidmerc_initmsg1.ogg         - Merc
+mission_firstcontactmercs_stupidmerc_initmsg2.ogg         - DiTritus
+mission_firstcontactpress_remotemessage2.ogg              - Berto (coms)
+mission_firstcontactpress_remotemessage3.ogg              - Berto (coms)
+mission_firstcrazybet_comcrazygambler_ni_1ans.ogg         - CrazyGambler (coms)
+mission_firstcrazybet_comcrazygambler_ni_1msg.ogg         - DiTritus
+mission_firstcrazybet_humphrey_initans1.ogg               - Humphrey
+mission_firstcrazybet_humphrey_initans2.ogg               - Berto
+mission_firstcrazybet_humphrey_initmsg1.ogg               - DiTritus
+mission_firstcrazybet_humphrey_initmsg2.ogg               - DiTritus
+mission_firstcrazybet_remotemessage1.ogg                  - CrazyGambler (coms)
+mission_firstcrazybet_remotemessage10.ogg                 - CrazyGambler (coms)
+mission_firstcrazybet_remotemessage11.ogg                 - Boss (coms)
+mission_firstcrazybet_remotemessage12.ogg                 - Humphrey (coms)
+mission_firstcrazybet_remotemessage2.ogg                  - CrazyGambler (coms)
+mission_firstcrazybet_remotemessage3.ogg                  - CrazyGambler (coms)
+mission_firstcrazybet_remotemessage4.ogg                  - CrazyGambler (coms)
+mission_firstcrazybet_remotemessage5.ogg                  - CrazyGambler (coms)
+mission_firstcrazybet_remotemessage6.ogg                  - CrazyGambler (coms)
+mission_firstcrazybet_remotemessage7.ogg                  - CrazyGambler (coms)
+mission_firstcrazybet_remotemessage8.ogg                  - Bishop (coms)
+mission_firstcrazybet_remotemessage9.ogg                  - Rusty (coms)
+mission_firstmeetcrazygambler_crazygambler_ni_1ans.ogg    - CrazyGambler
+mission_firstmeetcrazygambler_crazygambler_ni_1msg.ogg    - DiTritus
+mission_firstmeetcrazygambler_crazygambler_ni_2ans.ogg    - CrazyGambler
+mission_firstmeetcrazygambler_crazygambler_ni_2msg.ogg    - DiTritus
+mission_firstmeetcrazygambler_crazygambler_ni_3ans.ogg    - CrazyGambler
+mission_firstmeetcrazygambler_crazygambler_ni_3msg.ogg    - DiTritus
+mission_firstmeetcrazygambler_crazygambler_ni_4ans.ogg    - CrazyGambler
+mission_firstmeetcrazygambler_crazygambler_ni_4msg.ogg    - DiTritus
+mission_firstmeetcrazygambler_remotemessage1.ogg          - Deepthroat
+mission_firstmeetdeepthroat_comdeepthroat_ni_1ans.ogg     - Deepthroat
+mission_firstmeetdeepthroat_comdeepthroat_ni_1msg.ogg     - DiTritus
+mission_firstmeetdeepthroat_comdeepthroat_ni_2ans.ogg     - Deepthroat
+mission_firstmeetdeepthroat_comdeepthroat_ni_2msg.ogg     - DiTritus
+mission_firstmeetdeepthroat_comdeepthroat_ni_3ans.ogg     - Deepthroat
+mission_firstmeetdeepthroat_comdeepthroat_ni_3msg.ogg     - DiTritus
+mission_firstmeetdeepthroat_comdeepthroat_ni_4ans.ogg     - Deepthroat
+mission_firstmeetdeepthroat_comdeepthroat_ni_4msg.ogg     - DiTritus
+mission_firstmeetdeepthroat_remotemessage3.ogg            - Deepthroat
+mission_firstmeetdeepthroat_remotemessage4.ogg            - Deepthroat
+mission_firstmeetdeepthroat_remotemessage5.ogg            - Deepthroat
+mission_firstmeethuman_remotemessage1.ogg                 - Deepthroat
+mission_firstmeethuman_remotemessage2.ogg                 - Deepthroat
+mission_flowerpower_traitorius_1_1ans.ogg                 - Functionary
+mission_flowerpower_traitorius_1_1msg.ogg                 - DiTritus
+mission_flowerpower_traitorius_1ans.ogg                   - Functionary
+mission_flowerpower_traitorius_1msg.ogg                   - DiTritus
+mission_flowerpower_traitorius_initans1.ogg               - Functionary
+mission_flowerpower_traitorius_initans2.ogg               - Functionary
+mission_flowerpower_traitorius_initmsg1.ogg               - DiTritus
+mission_flowerpower_traitorius_initmsg2.ogg               - DiTritus
+mission_followstupidmerc_remotemessage1.ogg               - Merc (coms)
+mission_followstupidmerc_remotemessage2.ogg               - Merc (coms)
+mission_followstupidmerc_remotemessage3.ogg               - Merc (coms)
+mission_followstupidmerc_remotemessage4.ogg               - Merc (coms)
+mission_followstupidmerc_remotemessage5.ogg               - Merc (coms)
+mission_followstupidmerc_remotemessage6.ogg               - Merc (coms)
+mission_followstupidmerc_remotemessage7.ogg               - Deepthroat
+mission_followstupidmerc_remotemessage8.ogg               - Merc (coms)
+mission_functionaryhunting_remotemessage1.ogg             - Deepthroat
+mission_functionaryhunting_remotemessage2.ogg             - Police (coms)
+mission_functionaryhunting_remotemessage3.ogg             - Police (coms)
+mission_functionaryhunting_remotemessage4.ogg             - Deepthroat
+mission_functionaryhunting_remotemessage5.ogg             - Police (coms)
+mission_functionaryhunting_remotemessage6.ogg             - Deepthroat
+mission_functionaryhunting_remotemessage7.ogg             - Police (coms)
+mission_functionaryhunting_remotemessage8.ogg             - Rusty (coms)
+mission_get1stclue_policeboss_initans1.ogg                - PoliceBoss
+mission_get1stclue_policeboss_initmsg1.ogg                - DiTritus
+mission_get1stclue_remotemessage1.ogg                     - PoliceBoss (coms)
+mission_get1stclue_remotemessage2.ogg                     - PoliceBoss (coms)
+mission_get1stclue_remotemessage3.ogg                     - PoliceBoss (coms)
+mission_get1stclue_remotemessage4.ogg                     - PoliceBoss (coms)
+mission_get1stclue_remotemessage5.ogg                     - PoliceBoss (coms)
+mission_get1stclue_remotemessage6.ogg                     - PoliceBoss (coms)
+mission_get2ndclue_compoliceboss_ni_1ans.ogg              - PoliceBoss (coms)
+mission_get2ndclue_compoliceboss_ni_1msg.ogg              - DiTritus
+mission_get2ndclue_compoliceboss_ni_2ans.ogg              - PoliceBoss (coms)
+mission_get2ndclue_compoliceboss_ni_2msg.ogg              - DiTritus
+mission_get2ndclue_compoliceboss_ni_3ans.ogg              - PoliceBoss (coms)
+mission_get2ndclue_compoliceboss_ni_3msg.ogg              - DiTritus
+mission_get3rdclue_compoliceboss_ni_1ans.ogg              - PoliceBoss (coms)
+mission_get3rdclue_compoliceboss_ni_1msg.ogg              - DiTritus
+mission_get3rdclue_compoliceboss_ni_2ans.ogg              - PoliceBoss (coms)
+mission_get3rdclue_compoliceboss_ni_2msg.ogg              - DiTritus
+mission_get4thclue_compoliceboss_ni_1ans.ogg              - PoliceBoss (coms)
+mission_get4thclue_compoliceboss_ni_1msg.ogg              - DiTritus
+mission_get4thclue_compoliceboss_ni_2ans.ogg              - PoliceBoss (coms)
+mission_get4thclue_compoliceboss_ni_2msg.ogg              - DiTritus
+mission_get4thclue_compoliceboss_ni_3ans.ogg              - PoliceBoss (coms)
+mission_get4thclue_compoliceboss_ni_3msg.ogg              - DiTritus
+mission_getbankershipplans_remotemessage1.ogg             - CrazyGambler (coms)
+mission_getbankershipplans_remotemessage2.ogg             - PoliceBoss (coms)
+mission_getbankershipplans_remotemessage3.ogg             - PoliceBoss (coms)
+mission_getbankershipplans_remotemessage4.ogg             - PoliceBoss (coms)
+mission_getbankershipplans_remotemessage5.ogg             - PoliceBoss (coms)
+mission_getbankershipplans_remotemessage6.ogg             - PoliceBoss (coms)
+mission_getbankershipplans_remotemessage7.ogg             - BankDirector (coms)
+mission_getbatteries_remotemessage1.ogg                   - Sebastian (coms)
+mission_getbatteries_remotemessage4.ogg                   - CrazyGambler (coms)
+mission_getbatteries_remotemessage5.ogg                   - Sebastian (coms)
+mission_getcrazydata_remotemessage1.ogg                   - Deepthroat
+mission_getcrazydata_remotemessage2.ogg                   - Deepthroat
+mission_getcrazydata_remotemessage3.ogg                   - Deepthroat
+mission_getcrazydata_remotemessage4.ogg                   - Deepthroat
+mission_getcrazydata_remotemessage5.ogg                   - Deepthroat
+mission_getcrazydata_remotemessage6.ogg                   - Deepthroat
+mission_getcrazydata_remotemessage7.ogg                   - Deepthroat
+mission_getdatapart1_remotemessage9.ogg                   - Rusty (coms)
+mission_getdatapart2_functionary_initans1.ogg             - Functionary
+mission_getdatapart2_functionary_initans2.ogg             - Functionary
+mission_getdatapart2_functionary_initmsg1.ogg             - DiTritus
+mission_getdatapart2_functionary_initmsg2.ogg             - DiTritus
+mission_getdatapart2_remotemessage1.ogg                   - Functionary (coms)
+mission_getdatapart2_remotemessage2.ogg                   - Boss (coms)
+mission_getdatapart3_remotemessage1.ogg                   - Boss (coms)
+mission_getdatapart3_remotemessage2.ogg                   - Deepthroat
+mission_getdatapart3_remotemessage3.ogg                   - Boss (coms)
+mission_getfuncshipplans_remotemessage1.ogg               - Boss (coms)
+mission_getinfoclues_policeboss_initans1.ogg              - PoliceBoss
+mission_getinfoclues_policeboss_initans2.ogg              - PoliceBoss
+mission_getinfoclues_policeboss_initans3.ogg              - PoliceBoss
+mission_getinfoclues_policeboss_initmsg1.ogg              - DiTritus
+mission_getinfoclues_policeboss_initmsg2.ogg              - DiTritus
+mission_getinfoclues_policeboss_initmsg3.ogg              - DiTritus
+mission_getmayoroutlines_initans1.ogg                     - Functionary
+mission_getmayoroutlines_initmsg1.ogg                     - DiTritus
+mission_getmayoroutlines_remotemessage1.ogg               - Messenger (coms)
+mission_getmayoroutlines_remotemessage2.ogg               - Messenger (coms)
+mission_getmercshipplans_averagemerc_1_1_1ans.ogg         - Merc
+mission_getmercshipplans_averagemerc_1_1_1msg.ogg         - DiTritus
+mission_getmercshipplans_averagemerc_1_1ans.ogg           - Merc
+mission_getmercshipplans_averagemerc_1_1msg.ogg           - DiTritus
+mission_getmercshipplans_averagemerc_1ans.ogg             - Merc
+mission_getmercshipplans_averagemerc_1msg.ogg             - DiTritus
+mission_getmercshipplans_averagemerc_initans1.ogg         - Merc
+mission_getmercshipplans_averagemerc_initmsg1.ogg         - DiTritus
+mission_getmercshipplans_igor_1ans.ogg                    - Bishop
+mission_getmercshipplans_igor_1msg.ogg                    - DiTritus
+mission_getmercshipplans_remotemessage1.ogg               - Merc (coms)
+mission_getmercshipplans_remotemessage2.ogg               - Merc (coms)
+mission_getmercshipplans_remotemessage3.ogg               - Merc (coms)
+mission_getmercshipplans_remotemessage4.ogg               - Bishop (coms)
+mission_getmercshipplans_smartmerc_1_1_1ans.ogg           - Merc
+mission_getmercshipplans_smartmerc_1_1_1msg.ogg           - DiTritus
+mission_getmercshipplans_smartmerc_1_1ans.ogg             - Merc
+mission_getmercshipplans_smartmerc_1_1msg.ogg             - DiTritus
+mission_getmercshipplans_smartmerc_1ans.ogg               - Merc
+mission_getmercshipplans_smartmerc_1msg.ogg               - DiTritus
+mission_getmercshipplans_smartmerc_initans1.ogg           - Merc
+mission_getmercshipplans_smartmerc_initmsg1.ogg           - DiTritus
+mission_getmercshipplans_stupidmerc_1_1_1ans.ogg          - Merc
+mission_getmercshipplans_stupidmerc_1_1_1msg.ogg          - DiTritus
+mission_getmercshipplans_stupidmerc_1_1ans.ogg            - Merc
+mission_getmercshipplans_stupidmerc_1_1msg.ogg            - DiTritus
+mission_getmercshipplans_stupidmerc_1ans.ogg              - Merc
+mission_getmercshipplans_stupidmerc_1msg.ogg              - DiTritus
+mission_getmercshipplans_stupidmerc_initans1.ogg          - Merc
+mission_getmercshipplans_stupidmerc_initmsg1.ogg          - DiTritus
+mission_getpassword_remotemessage1.ogg                    - Deepthroat
+mission_getpassword_remotemessage2.ogg                    - Deepthroat
+mission_getpassword_remotemessage3.ogg                    - Deepthroat
+mission_getpassword_remotemessage4.ogg                    - Deepthroat
+mission_getpassword_remotemessage5.ogg                    - Deepthroat
+mission_getpassword_remotemessage6.ogg                    - Deepthroat
+mission_getreputation_crazygambler_ni_1ans.ogg            - CrazyGambler
+mission_getreputation_crazygambler_ni_1msg.ogg            - DiTritus
+mission_getrudolph_rudolph_ni_1ans.ogg                    - Functionary
+mission_getrudolph_rudolph_ni_1msg.ogg                    - DiTritus
+mission_getrudolph_rudolph_ni_2ans.ogg                    - Functionary
+mission_getrudolph_rudolph_ni_2msg.ogg                    - DiTritus
+mission_gettrurl_remotemessage1.ogg                       - CrazyGambler (coms)
+mission_gettrurl_remotemessage2.ogg                       - CrazyGambler (coms)
+mission_gettrurl_remotemessage3.ogg                       - CrazyGambler (coms)
+mission_gettrurl_trurl_ni_1ans.ogg                        - Messenger
+mission_gettrurl_trurl_ni_1msg.ogg                        - DiTritus
+mission_gettrurl_trurl_ni_2ans.ogg                        - Messenger
+mission_gettrurl_trurl_ni_2msg.ogg                        - DiTritus
+mission_gettrurl_trurl_ni_3ans.ogg                        - Messenger
+mission_gettrurl_trurl_ni_3msg.ogg                        - DiTritus
+mission_gettrurlagain_trurl_initans1.ogg                  - Messenger
+mission_gettrurlagain_trurl_initmsg1.ogg                  - DiTritus
+mission_gotodowntown_remotemessage1.ogg                   - Deepthroat
+mission_gotopolice_remotemessage1.ogg                     - Deepthroat
+mission_gotopress_remotemessage1.ogg                      - CrazyGambler
+mission_gotopressroom_remotemessage1.ogg                  - Deepthroat
+mission_gowithhuman_remotemessage1.ogg                    - Human (coms)
+mission_hirethugs_remotemessage1.ogg                      - Police (coms)
+mission_hirethugs_thug_1ans.ogg                           - Police
+mission_hirethugs_thug_1msg.ogg                           - DiTritus
+mission_hirethugs_thug_initans1.ogg                       - Police
+mission_hirethugs_thug_initans2.ogg                       - Police
+mission_hirethugs_thug_initans3.ogg                       - Police
+mission_hirethugs_thug_initmsg1.ogg                       - DiTritus
+mission_hirethugs_thug_initmsg2.ogg                       - DiTritus
+mission_hirethugs_thug_initmsg3.ogg                       - DiTritus
+mission_hirethugs_traitorius_initans1.ogg                 - Functionary
+mission_hirethugs_traitorius_initmsg1.ogg                 - DiTritus
+mission_identifymerc_remotemessage1.ogg                   - Deepthroat
+mission_identifymerc_remotemessage2.ogg                   - Deepthroat
+mission_identifymerc_remotemessage3.ogg                   - Deepthroat
+mission_infiltratebank_remotemessage1.ogg                 - Deepthroat
+mission_infiltratebank_remotemessage2.ogg                 - Deepthroat
+mission_infiltratebank_remotemessage3.ogg                 - Deepthroat
+mission_infiltratebank_remotemessage4.ogg                 - Berto
+mission_intothegdb_remotemessage1.ogg                     - Deepthroat
+mission_intothegdb_remotemessage2.ogg                     - Deepthroat
+mission_intothegdb_remotemessage3.ogg                     - Deepthroat
+mission_intothegdb_remotemessage4.ogg                     - Deepthroat
+mission_intothegdb_remotemessage5.ogg                     - Deepthroat
+mission_intothegdb_remotemessage6.ogg                     - Bishop
+mission_intothegdb_remotemessage7.ogg                     - Bishop
+mission_introhuman_humphrey_initans1.ogg                  - Humphrey
+mission_introhuman_humphrey_initmsg1.ogg                  - DiTritus
+mission_introhuman_remotemessage1.ogg                     - Checkin
+mission_introhuman_remotemessage2.ogg                     - Checkin
+mission_invulnerabletransport_remotemessage1.ogg          - Deepthroat
+mission_invulnerabletransport_remotemessage2.ogg          - Deepthroat
+mission_invulnerabletransport_remotemessage3.ogg          - Deepthroat
+mission_invulnerabletransport_remotemessage4.ogg          - Deepthroat
+mission_invulnerabletransport_remotemessage5.ogg          - Deepthroat
+mission_jailbreak_stapler_initans1.ogg                    - Stapler
+mission_jailbreak_stapler_initmsg1.ogg                    - DiTritus
+mission_killmercs_remotemessage1.ogg                      - Mayor (coms)
+mission_killmercs_remotemessage2.ogg                      - Functionary (coms)
+mission_killmercs_remotemessage3.ogg                      - Mayor (coms)
+mission_killmercs_remotemessage4.ogg                      - Mayor (coms)
+mission_killrudolph_remotemessage1.ogg                    - PoliceBoss (coms)
+mission_killrudolph_remotemessage2.ogg                    - PoliceBoss (coms)
+mission_killscrapus_ficus_initans1.ogg                    - Police
+mission_killscrapus_ficus_initmsg1.ogg                    - DiTritus
+mission_killscrapus_remotemessage1.ogg                    - Police (coms)
+mission_killscrapus_scrapus_initans1.ogg                  - BankDirector
+mission_killscrapus_scrapus_initmsg1.ogg                  - DiTritus
+mission_killstaplers_desktop_initans1.ogg                 - Stapler
+mission_killstaplers_desktop_initmsg1.ogg                 - DiTritus
+mission_killstaplers_mayor_initans1.ogg                   - Mayor
+mission_killstaplers_mayor_initmsg1.ogg                   - DiTritus
+mission_killstaplers_remotemessage1.ogg                   - Mayor (coms)
+mission_killstaplers_remotemessage2.ogg                   - Mayor (coms)
+mission_killstaplers_remotemessage3.ogg                   - Mayor (coms)
+mission_killstaplers_remotemessage4.ogg                   - Mayor (coms)
+mission_killstaplers_remotemessage5.ogg                   - Mayor (coms)
+mission_killstaplers_remotemessage6.ogg                   - Mayor (coms)
+mission_killstaplers_remotemessage7.ogg                   - Mayor (coms)
+mission_killstupidus_remotemessage1.ogg                   - Functionary (coms)
+mission_killstupidus_remotemessage2.ogg                   - Functionary (coms)
+mission_killstupidus_remotemessage3.ogg                   - Functionary (coms)
+mission_killstupidus_remotemessage4.ogg                   - Functionary (coms)
+mission_killstupidus_remotemessage5.ogg                   - Police (coms)
+mission_killstupidus_remotemessage6.ogg                   - Police (coms)
+mission_massacre_remotemessage1.ogg                       - Bishop (coms)
+mission_massacre_remotemessage2.ogg                       - Bishop (coms)
+mission_massacre_remotemessage3.ogg                       - Bishop (coms)
+mission_massacre_remotemessage4.ogg                       - Bishop (coms)
+mission_massacre_remotemessage5.ogg                       - Bishop (coms)
+mission_meetbankmaster_remotemessage1.ogg                 - Deepthroat
+mission_meetbankmaster_remotemessage2.ogg                 - BankMaster (coms)
+mission_meetberto_bankboss_initans1.ogg                   - BankMaster
+mission_meetberto_bankboss_initmsg1.ogg                   - DiTritus
+mission_meetberto_comdeepthroat_ni_1ans.ogg               - Deepthroat
+mission_meetberto_comdeepthroat_ni_1msg.ogg               - DiTritus
+mission_meetberto_comdeepthroat_ni_2ans.ogg               - Deepthroat
+mission_meetberto_comdeepthroat_ni_2msg.ogg               - DiTritus
+mission_meetberto_comdeepthroat_ni_3ans.ogg               - Deepthroat
+mission_meetberto_comdeepthroat_ni_3msg.ogg               - DiTritus
+mission_meetingwithmrx_remotemessage1.ogg                 - Functionary (coms)
+mission_meetingwithmrx_remotemessage2.ogg                 - Deepthroat
+mission_parkmayorship_remotemessage1.ogg                  - Messenger (coms)
+mission_parkmayorship_remotemessage2.ogg                  - Messenger (coms)
+mission_parkmayorship_remotemessage3.ogg                  - Messenger (coms)
+mission_photopoliceboss_dtritus_initmsg1.ogg              - DiTritus
+mission_photopoliceboss_police_initans1.ogg               - Police
+mission_photopoliceboss_police_initmsg1.ogg               - DiTritus
+mission_protectgus_remotemessage1.ogg                     - Deepthroat
+mission_protectgus_remotemessage2.ogg                     - Deepthroat
+mission_protectgus_remotemessage3.ogg                     - Deepthroat
+mission_protectgus_remotemessage4.ogg                     - Deepthroat
+mission_protectmayortransport_remotemessage1.ogg          - Mayor (coms)
+mission_protectmayortransport_remotemessage2.ogg          - Mayor (coms)
+mission_protectmayortransport_remotemessage3.ogg          - Mayor (coms)
+mission_protectmayortransport_remotemessage4.ogg          - Mayor (coms)
+mission_protectmayortransport_remotemessage5.ogg          - Mayor (coms)
+mission_protectmayortransport_remotemessage6.ogg          - Rusty (coms)
+mission_reinsertgusmatrix_remotemessage1.ogg              - Deepthroat
+mission_reinsertownmatrix_remotemessage1.ogg              - Deepthroat
+mission_reinsertownmatrix2_remotemessage1.ogg             - Deepthroat
+mission_reinsertownmatrix2_remotemessage2.ogg             - Deepthroat
+mission_scene_archbishop_1.ogg                            - DiTritus
+mission_scene_archbishop_2.ogg                            - ArchBishop
+mission_scene_archbishop_3.ogg                            - DiTritus
+mission_scene_archbishop_4.ogg                            - ArchBishop
+mission_scene_archbishop_5.ogg                            - DiTritus
+mission_scene_archbishop_6.ogg                            - ArchBishop
+mission_scene_archbishop_7.ogg                            - DiTritus
+mission_scene_archbishop_8.ogg                            - ArchBishop
+mission_scene_archbishopkilled_photo_1.ogg                - Humphrey
+mission_scene_archbishopkilled_photo_2.ogg                - DiTritus
+mission_scene_archbishopkilled_photo_3.ogg                - Humphrey
+mission_scene_buildfirstship_rusty_1.ogg                  - Rusty
+mission_scene_buildfirstship_rusty_2.ogg                  - DiTritus
+mission_scene_buildfirstship_rusty_3.ogg                  - Rusty
+mission_scene_buildfirstship_rusty_4.ogg                  - DiTritus
+mission_scene_checkin_bishop_1.ogg                        - DiTritus
+mission_scene_checkin_bishop_2.ogg                        - Bishop
+mission_scene_checkin_bishop_3.ogg                        - DiTritus
+mission_scene_checkin_bishop_4.ogg                        - Bishop
+mission_scene_checkin_bishop_5.ogg                        - Bishop
+mission_scene_checkin_bishop_6.ogg                        - DiTritus
+mission_scene_checkin_bishop_7.ogg                        - Bishop
+mission_scene_checkin_bishop_8.ogg                        - Bishop
+mission_scene_checkin_func_1.ogg                          - Functionary
+mission_scene_checkin_func_10.ogg                         - DiTritus
+mission_scene_checkin_func_11.ogg                         - Functionary
+mission_scene_checkin_func_12.ogg                         - DiTritus
+mission_scene_checkin_func_13.ogg                         - Functionary
+mission_scene_checkin_func_14.ogg                         - Functionary
+mission_scene_checkin_func_15.ogg                         - DiTritus
+mission_scene_checkin_func_16.ogg                         - Functionary
+mission_scene_checkin_func_2.ogg                          - DiTritus
+mission_scene_checkin_func_3.ogg                          - Functionary
+mission_scene_checkin_func_4.ogg                          - Functionary
+mission_scene_checkin_func_5.ogg                          - DiTritus
+mission_scene_checkin_func_6.ogg                          - Functionary
+mission_scene_checkin_func_7.ogg                          - Functionary
+mission_scene_checkin_func_8.ogg                          - Functionary
+mission_scene_checkin_func_9.ogg                          - Functionary
+mission_scene_fake_rusty_1.ogg                            - Berto
+mission_scene_fake_rusty_10.ogg                           - DiTritus
+mission_scene_fake_rusty_11.ogg                           - Rusty
+mission_scene_fake_rusty_12.ogg                           - Rusty
+mission_scene_fake_rusty_13.ogg                           - Berto
+mission_scene_fake_rusty_2.ogg                            - Berto
+mission_scene_fake_rusty_3.ogg                            - Berto
+mission_scene_fake_rusty_4.ogg                            - DiTritus
+mission_scene_fake_rusty_5.ogg                            - Berto
+mission_scene_fake_rusty_6.ogg                            - Berto
+mission_scene_fake_rusty_7.ogg                            - Rusty
+mission_scene_fake_rusty_8.ogg                            - DiTritus
+mission_scene_fake_rusty_9.ogg                            - Rusty
+mission_scene_fake_townhall_1.ogg                         - DiTritus
+mission_scene_fake_townhall_10.ogg                        - Berto
+mission_scene_fake_townhall_11.ogg                        - DiTritus
+mission_scene_fake_townhall_12.ogg                        - Berto
+mission_scene_fake_townhall_13.ogg                        - DiTritus
+mission_scene_fake_townhall_14.ogg                        - Berto
+mission_scene_fake_townhall_15.ogg                        - DiTritus
+mission_scene_fake_townhall_16.ogg                        - Berto
+mission_scene_fake_townhall_17.ogg                        - DiTritus
+mission_scene_fake_townhall_18.ogg                        - Berto
+mission_scene_fake_townhall_2.ogg                         - Berto
+mission_scene_fake_townhall_3.ogg                         - DiTritus
+mission_scene_fake_townhall_4.ogg                         - Berto
+mission_scene_fake_townhall_5.ogg                         - Berto
+mission_scene_fake_townhall_6.ogg                         - Berto
+mission_scene_fake_townhall_7.ogg                         - DiTritus
+mission_scene_fake_townhall_8.ogg                         - Berto
+mission_scene_fake_townhall_9.ogg                         - DiTritus
+mission_scene_falling_dtritus_1.ogg                       - DiTritus (falling)
+mission_scene_firstcontactpress_part1_1.ogg               - DiTritus
+mission_scene_firstcontactpress_part1_10.ogg              - DiTritus
+mission_scene_firstcontactpress_part1_11.ogg              - Boss
+mission_scene_firstcontactpress_part1_12.ogg              - Betty
+mission_scene_firstcontactpress_part1_2.ogg               - Berto
+mission_scene_firstcontactpress_part1_3.ogg               - Betty
+mission_scene_firstcontactpress_part1_4.ogg               - Betty
+mission_scene_firstcontactpress_part1_5.ogg               - Berto
+mission_scene_firstcontactpress_part1_6.ogg               - Berto
+mission_scene_firstcontactpress_part1_7.ogg               - Boss
+mission_scene_firstcontactpress_part1_8.ogg               - DiTritus
+mission_scene_firstcontactpress_part1_9.ogg               - Boss
+mission_scene_firstcontactpress_part2_1.ogg               - Betty
+mission_scene_firstcontactpress_part2_10.ogg              - Sebastian
+mission_scene_firstcontactpress_part2_11.ogg              - DiTritus
+mission_scene_firstcontactpress_part2_12.ogg              - Sebastian
+mission_scene_firstcontactpress_part2_13.ogg              - Sebastian
+mission_scene_firstcontactpress_part2_14.ogg              - DiTritus
+mission_scene_firstcontactpress_part2_15.ogg              - Sebastian
+mission_scene_firstcontactpress_part2_16.ogg              - DiTritus
+mission_scene_firstcontactpress_part2_17.ogg              - Sebastian
+mission_scene_firstcontactpress_part2_18.ogg              - DiTritus
+mission_scene_firstcontactpress_part2_19.ogg              - Sebastian
+mission_scene_firstcontactpress_part2_2.ogg               - DiTritus
+mission_scene_firstcontactpress_part2_3.ogg               - Betty
+mission_scene_firstcontactpress_part2_4.ogg               - DiTritus
+mission_scene_firstcontactpress_part2_5.ogg               - Sebastian
+mission_scene_firstcontactpress_part2_6.ogg               - Sebastian
+mission_scene_firstcontactpress_part2_7.ogg               - DiTritus
+mission_scene_firstcontactpress_part2_8.ogg               - Sebastian
+mission_scene_firstcontactpress_part2_9.ogg               - DiTritus
+mission_scene_firstmeetcrazygambler_1.ogg                 - CrazyGambler
+mission_scene_firstmeetcrazygambler_2.ogg                 - CrazyGambler
+mission_scene_firstmeethuman_1.ogg                        - DiTritus
+mission_scene_firstmeethuman_2.ogg                        - Human
+mission_scene_firstmeethuman_3.ogg                        - DiTritus
+mission_scene_firstmeethuman_4.ogg                        - Human
+mission_scene_firstmeethuman_5.ogg                        - DiTritus
+mission_scene_gotogamblingden_1.ogg                       - Merc
+mission_scene_gotogamblingden_10.ogg                      - CrazyGambler and Merc (and probably Human but I am not sure)
+mission_scene_gotogamblingden_2.ogg                       - Human
+mission_scene_gotogamblingden_3.ogg                       - DiTritus
+mission_scene_gotogamblingden_4.ogg                       - CrazyGambler
+mission_scene_gotogamblingden_5.ogg                       - Human
+mission_scene_gotogamblingden_6.ogg                       - Merc
+mission_scene_gotogamblingden_7.ogg                       - Human
+mission_scene_gotogamblingden_8.ogg                       - Human
+mission_scene_gotogamblingden_9.ogg                       - CrazyGambler
+mission_scene_gotopress_1.ogg                             - Berto
+mission_scene_gotopress_2.ogg                             - Boss
+mission_scene_gowithhuman_1.ogg                           - Boss
+mission_scene_gowithhuman_2.ogg                           - DiTritus
+mission_scene_gowithhuman_3.ogg                           - Boss
+mission_scene_gowithhuman_4.ogg                           - DiTritus
+mission_scene_gowithhuman_5.ogg                           - Boss
+mission_scene_gowithhuman_theplan1.ogg                    - CrazyGambler
+mission_scene_gowithhuman_theplan2.ogg                    - DiTritus
+mission_scene_gowithhuman_theplan3.ogg                    - CrazyGambler
+mission_scene_gowithhuman_theplan4.ogg                    - DiTritus
+mission_scene_gowithhuman_theplan5.ogg                    - CrazyGambler
+mission_scene_gowithhuman_theplan6.ogg                    - DiTritus
+mission_scene_gowithhuman_theplan7.ogg                    - CrazyGambler
+mission_scene_hirethugs_beating_1.ogg                     - Police
+mission_scene_hirethugs_beating_2.ogg                     - Police
+mission_scene_hirethugs_beating_3.ogg                     - Police
+mission_scene_hirethugs_beating_4.ogg                     - DiTritus
+mission_scene_hirethugs_beating_5.ogg                     - Police
+mission_scene_hirethugs_beating_6.ogg                     - DiTritus
+mission_scene_hirethugs_beating_7.ogg                     - Police
+mission_scene_infiltratebank_1.ogg                        - DiTritus
+mission_scene_infiltratebank_10.ogg                       - BankMaster
+mission_scene_infiltratebank_11.ogg                       - BankMaster
+mission_scene_infiltratebank_2.ogg                        - DiTritus
+mission_scene_infiltratebank_3.ogg                        - DiTritus
+mission_scene_infiltratebank_4.ogg                        - BankMaster
+mission_scene_infiltratebank_5.ogg                        - BankMaster
+mission_scene_infiltratebank_6.ogg                        - BankMaster
+mission_scene_infiltratebank_7.ogg                        - BankMaster
+mission_scene_infiltratebank_8.ogg                        - BankMaster
+mission_scene_infiltratebank_9.ogg                        - BankMaster
+mission_scene_introhuman_1.ogg                            - Human
+mission_scene_introhuman_2.ogg                            - Human
+mission_scene_introhuman_3.ogg                            - Human
+mission_scene_introhuman_4.ogg                            - Human
+mission_scene_mybossisthebaddie_1.ogg                     - Boss
+mission_scene_mybossisthebaddie_2.ogg                     - DiTritus
+mission_scene_mybossisthebaddie_3.ogg                     - Boss
+mission_scene_mybossisthebaddie_4.ogg                     - DiTritus
+mission_scene_mybossisthebaddie_5.ogg                     - Boss
+mission_scene_mybossisthebaddie_6.ogg                     - DiTritus
+mission_scene_mybossisthebaddie_7.ogg                     - Boss
+mission_scene_mybossisthebaddie_8.ogg                     - Betty
+mission_scene_mybossisthebaddie_9.ogg                     - Boss
+mission_scene_photopoliceboss_1.ogg                       - DiTritus
+mission_scene_photopoliceboss_2.ogg                       - PoliceBoss
+mission_scene_photopoliceboss_3.ogg                       - DiTritus
+mission_scene_photopoliceboss_4.ogg                       - PoliceBoss
+mission_scene_photopoliceboss_5.ogg                       - DiTritus
+mission_scene_photopoliceboss_6.ogg                       - PoliceBoss
+mission_scene_photopoliceboss_7.ogg                       - DiTritus
+mission_scene_photopoliceboss_8.ogg                       - PoliceBoss
+mission_scene_policebosskilled_interview_1.ogg            - DiTritus
+mission_scene_policebosskilled_interview_10.ogg           - Berto
+mission_scene_policebosskilled_interview_11.ogg           - DiTritus
+mission_scene_policebosskilled_interview_2.ogg            - Boss
+mission_scene_policebosskilled_interview_3.ogg            - DiTritus
+mission_scene_policebosskilled_interview_4.ogg            - Boss
+mission_scene_policebosskilled_interview_5.ogg            - DiTritus
+mission_scene_policebosskilled_interview_6.ogg            - Boss
+mission_scene_policebosskilled_interview_7.ogg            - Berto
+mission_scene_policebosskilled_interview_8.ogg            - DiTritus
+mission_scene_policebosskilled_interview_9.ogg            - Boss
+mission_scene_protectmayortransport_1.ogg                 - AnonPilot
+mission_scene_protectmayortransport_2.ogg                 - Merc (coms)
+mission_scene_protectmayortransport_3.ogg                 - Merc (coms)
+mission_scene_protectmayortransport_4.ogg                 - AnonPilot
+mission_scene_sethumanfree_hidehuman1.ogg                 - DiTritus
+mission_scene_theend_almost1.ogg                          - CrazyGambler
+mission_scene_theend_almost2.ogg                          - Berto
+mission_scene_theend_almost3.ogg                          - Human
+mission_scene_theend_almost4.ogg                          - DiTritus
+mission_scene_theend_almost5.ogg                          - Betty
+mission_scene_theend_almost6.ogg                          - DiTritus
+mission_scene_theend_almost7.ogg                          - Betty
+mission_scene_theend_byebye1.ogg                          - DiTritus
+mission_scene_theend_byebye2.ogg                          - Betty
+mission_scene_theend_byebye3.ogg                          - DiTritus
+mission_scene_theend_byebye4.ogg                          - DiTritus
+mission_scene_theend_byebye5.ogg                          - DiTritus
+mission_scene_whoisdeepthroat_1.ogg                       - DiTritus
+mission_scene_whoisdeepthroat_10.ogg                      - Betty
+mission_scene_whoisdeepthroat_11.ogg                      - DiTritus
+mission_scene_whoisdeepthroat_12.ogg                      - Betty
+mission_scene_whoisdeepthroat_13.ogg                      - DiTritus
+mission_scene_whoisdeepthroat_14.ogg                      - Boss
+mission_scene_whoisdeepthroat_15.ogg                      - Boss
+mission_scene_whoisdeepthroat_16.ogg                      - Betty
+mission_scene_whoisdeepthroat_17.ogg                      - Boss
+mission_scene_whoisdeepthroat_18.ogg                      - Humphrey
+mission_scene_whoisdeepthroat_2.ogg                       - Betty
+mission_scene_whoisdeepthroat_3.ogg                       - DiTritus
+mission_scene_whoisdeepthroat_4.ogg                       - Betty
+mission_scene_whoisdeepthroat_5.ogg                       - DiTritus
+mission_scene_whoisdeepthroat_6.ogg                       - Betty
+mission_scene_whoisdeepthroat_7.ogg                       - DiTritus
+mission_scene_whoisdeepthroat_8.ogg                       - Betty
+mission_scene_whoisdeepthroat_9.ogg                       - DiTritus
+mission_search&destroymickus_remotemessage1.ogg           - Functionary (coms)
+mission_search&destroymickus_remotemessage2.ogg           - Functionary (coms)
+mission_search&destroymickus_remotemessage3.ogg           - Functionary (coms)
+mission_search&destroymickus_remotemessage4.ogg           - Functionary (coms)
+mission_search&destroymickus_remotemessage5.ogg           - Functionary (coms)
+mission_search&destroymickus_remotemessage6.ogg           - Functionary (coms)
+mission_search&destroymickus_remotemessage7.ogg           - Functionary (coms)
+mission_search&destroymickus_remotemessage8.ogg           - Functionary (coms)
+mission_search&destroymickus_traitorius_initans1.ogg      - Functionary
+mission_search&destroymickus_traitorius_initmsg1.ogg      - DiTritus
+mission_sethumanfree_remotemessage1.ogg                   - Boss (coms)
+mission_sethumanfree_remotemessage2.ogg                   - Human (coms)
+mission_sethumanfree_remotemessage3.ogg                   - Deepthroat
+mission_spypoliceboss_policeboss_ni_1ans.ogg              - PoliceBoss
+mission_spypoliceboss_policeboss_ni_1msg.ogg              - DiTritus
+mission_spypoliceboss_policeboss_ni_2ans.ogg              - PoliceBoss
+mission_spypoliceboss_policeboss_ni_2msg.ogg              - DiTritus
+mission_talktoboss_boss_1ans.ogg                          - Boss
+mission_talktoboss_boss_1msg.ogg                          - DiTritus
+mission_talktoboss_boss_initans1.ogg                      - Boss
+mission_talktoboss_boss_initans2.ogg                      - Boss
+mission_talktoboss_boss_initmsg1.ogg                      - DiTritus
+mission_talktoboss_boss_initmsg2.ogg                      - DiTritus
+mission_talktoboss2__comboss_ni_1ans.ogg                  - Boss (coms)
+mission_talktoboss2__comboss_ni_1msg.ogg                  - DiTritus
+mission_talktoboss3_comboss_ni_1ans.ogg                   - Boss (coms)
+mission_talktoboss3_comboss_ni_1msg.ogg                   - DiTritus
+mission_talktocrazy_comcrazygambler_ni_1ans.ogg           - CrazyGambler (coms)
+mission_talktocrazy_comcrazygambler_ni_1msg.ogg           - DiTritus
+mission_talktocrazy_comcrazygambler_ni_2ans.ogg           - CrazyGambler (coms)
+mission_talktocrazy_comcrazygambler_ni_2msg.ogg           - DiTritus
+mission_talktocrazy_remotemessage1.ogg                    - CrazyGambler (coms)
+mission_talktocrazygambler_comcrazygambler_ni_1ans.ogg    - CrazyGambler (coms)
+mission_talktocrazygambler_comcrazygambler_ni_1msg.ogg    - DiTritus
+mission_talktocrazygambler_comcrazygambler_ni_2ans.ogg    - CrazyGambler (coms)
+mission_talktocrazygambler_comcrazygambler_ni_2msg.ogg    - DiTritus
+mission_talktocrazygambler_comcrazygambler_ni_3ans.ogg    - CrazyGambler (coms)
+mission_talktocrazygambler_comcrazygambler_ni_3msg.ogg    - DiTritus
+mission_talktodeepthroat1_comdeepthroat_ni_1ans.ogg       - Deepthroat
+mission_talktodeepthroat1_comdeepthroat_ni_1msg.ogg       - DiTritus
+mission_talktodeepthroat1_remotemessage1.ogg              - Deepthroat
+mission_talktodeepthroat1_remotemessage2.ogg              - Deepthroat
+mission_talktodeepthroat10_comdeepthroat_ni_1ans.ogg      - Deepthroat
+mission_talktodeepthroat10_comdeepthroat_ni_1msg.ogg      - DiTritus
+mission_talktodeepthroat10_comdeepthroat_ni_2ans.ogg      - Deepthroat
+mission_talktodeepthroat10_comdeepthroat_ni_2msg.ogg      - DiTritus
+mission_talktodeepthroat10_comdeepthroat_ni_3ans.ogg      - Deepthroat
+mission_talktodeepthroat10_comdeepthroat_ni_3msg.ogg      - DiTritus
+mission_talktodeepthroat2_comdeepthroat_ni_1ans.ogg       - Deepthroat
+mission_talktodeepthroat2_comdeepthroat_ni_1msg.ogg       - DiTritus
+mission_talktodeepthroat2_comdeepthroat_ni_2ans.ogg       - Deepthroat
+mission_talktodeepthroat2_comdeepthroat_ni_2msg.ogg       - DiTritus
+mission_talktodeepthroat3_comdeepthroat_ni_1ans.ogg       - Deepthroat
+mission_talktodeepthroat3_comdeepthroat_ni_1msg.ogg       - DiTritus
+mission_talktodeepthroat3_comdeepthroat_ni_2ans.ogg       - Deepthroat
+mission_talktodeepthroat3_comdeepthroat_ni_2msg.ogg       - DiTritus
+mission_talktodeepthroat3_comdeepthroat_ni_3ans.ogg       - Deepthroat
+mission_talktodeepthroat3_comdeepthroat_ni_3msg.ogg       - DiTritus
+mission_talktodeepthroat3_comdeepthroat_ni_4ans.ogg       - Deepthroat
+mission_talktodeepthroat3_comdeepthroat_ni_4msg.ogg       - DiTritus
+mission_talktodeepthroat3b_comdeepthroat_ni_1ans.ogg      - Deepthroat
+mission_talktodeepthroat3b_comdeepthroat_ni_1msg.ogg      - DiTritus
+mission_talktodeepthroat3b_comdeepthroat_ni_2ans.ogg      - Deepthroat
+mission_talktodeepthroat3b_comdeepthroat_ni_2msg.ogg      - DiTritus
+mission_talktodeepthroat3b_comdeepthroat_ni_3ans.ogg      - Deepthroat
+mission_talktodeepthroat3b_comdeepthroat_ni_3msg.ogg      - DiTritus
+mission_talktodeepthroat4__comdeepthroat_ni_1ans.ogg      - Deepthroat
+mission_talktodeepthroat4__comdeepthroat_ni_1msg.ogg      - DiTritus
+mission_talktodeepthroat4__comdeepthroat_ni_2ans.ogg      - Deepthroat
+mission_talktodeepthroat4__comdeepthroat_ni_2msg.ogg      - DiTritus
+mission_talktodeepthroat4__comdeepthroat_ni_3ans.ogg      - Deepthroat
+mission_talktodeepthroat4__comdeepthroat_ni_3msg.ogg      - DiTritus
+mission_talktodeepthroat5_deepthroat_ni_1ans.ogg          - Deepthroat
+mission_talktodeepthroat5_deepthroat_ni_1msg.ogg          - DiTritus
+mission_talktodeepthroat5_deepthroat_ni_2ans.ogg          - Deepthroat
+mission_talktodeepthroat5_deepthroat_ni_2msg.ogg          - DiTritus
+mission_talktodeepthroat6__comdeepthroat_ni_1ans.ogg      - Deepthroat
+mission_talktodeepthroat6__comdeepthroat_ni_1msg.ogg      - DiTritus
+mission_talktodeepthroat6__comdeepthroat_ni_2ans.ogg      - Deepthroat
+mission_talktodeepthroat6__comdeepthroat_ni_2msg.ogg      - DiTritus
+mission_talktodeepthroat6__comdeepthroat_ni_3ans.ogg      - Deepthroat
+mission_talktodeepthroat6__comdeepthroat_ni_3msg.ogg      - DiTritus
+mission_talktodeepthroat7__comdeepthroat_ni_1ans.ogg      - Deepthroat
+mission_talktodeepthroat7__comdeepthroat_ni_1msg.ogg      - DiTritus
+mission_talktodeepthroat7__comdeepthroat_ni_2ans.ogg      - Deepthroat
+mission_talktodeepthroat7__comdeepthroat_ni_2msg.ogg      - DiTritus
+mission_talktodeepthroat8_comdeepthroat_ni_1ans.ogg       - Deepthroat
+mission_talktodeepthroat8_comdeepthroat_ni_1msg.ogg       - DiTritus
+mission_talktodeepthroat8_comdeepthroat_ni_2ans.ogg       - Deepthroat
+mission_talktodeepthroat8_comdeepthroat_ni_2msg.ogg       - DiTritus
+mission_talktodeepthroat9_comdeepthroat_ni_1ans.ogg       - Deepthroat
+mission_talktodeepthroat9_comdeepthroat_ni_1msg.ogg       - DiTritus
+mission_talktodeepthroat9_comdeepthroat_ni_2ans.ogg       - Deepthroat
+mission_talktodeepthroat9_comdeepthroat_ni_2msg.ogg       - DiTritus
+mission_talktoficus_ficus_1ans.ogg                        - Police
+mission_talktoficus_ficus_1msg.ogg                        - DiTritus
+mission_talktoficus_ficus_initans2.ogg                    - Police
+mission_talktoficus_ficus_initmsg2.ogg                    - DiTritus
+mission_talktoficus_ficus_ni_1ans.ogg                     - Police
+mission_talktoficus_ficus_ni_1msg.ogg                     - DiTritus
+mission_talktoficus_ficus_ni_2ans.ogg                     - Police
+mission_talktoficus_ficus_ni_2msg.ogg                     - DiTritus
+mission_talktoficus_remotemessage1.ogg                    - CrazyGambler (coms)
+mission_talktoficus_remotemessage2.ogg                    - CrazyGambler (coms)
+mission_talktoficus_remotemessage3.ogg                    - CrazyGambler (coms)
+mission_talktoficus_remotemessage4.ogg                    - CrazyGambler (coms)
+mission_talktoficus2_ficus_initans1.ogg                   - Police
+mission_talktoficus2_ficus_initans2.ogg                   - Police
+mission_talktoficus2_ficus_initmsg1.ogg                   - DiTritus
+mission_talktoficus2_ficus_initmsg2.ogg                   - DiTritus
+mission_talktoficus3_dtritus_initmsg1.ogg                 - DiTritus
+mission_talktoficus3_remotemessage1.ogg                   - CrazyGambler (coms)
+mission_talktoficus3_remotemessage2.ogg                   - CrazyGambler (coms)
+mission_talktoficus3_remotemessage3.ogg                   - CrazyGambler (coms)
+mission_talktoficus3_remotemessage4.ogg                   - CrazyGambler (coms)
+mission_talktoficus3_remotemessage5.ogg                   - CrazyGambler (coms)
+mission_talktoficus3_remotemessage6.ogg                   - CrazyGambler (coms)
+mission_talktoficus3_remotemessage7.ogg                   - CrazyGambler (coms)
+mission_talktoficusfriend_police_initans2.ogg             - Police
+mission_talktoficusfriend_police_initmsg2.ogg             - DiTritus
+mission_talktoficusfriend_police_ni_1ans.ogg              - Police
+mission_talktoficusfriend_police_ni_1msg.ogg              - DiTritus
+mission_talktoficusfriend_police_ni_2ans.ogg              - Police
+mission_talktoficusfriend_police_ni_2msg.ogg              - DiTritus
+mission_talktoficusfriend_police_ni_3ans.ogg              - Police
+mission_talktoficusfriend_police_ni_3msg.ogg              - DiTritus
+mission_talktoficusfriend_remotemessage1.ogg              - CrazyGambler (coms)
+mission_talktoficusfriend_remotemessage2.ogg              - CrazyGambler (coms)
+mission_talktoficusfriend_remotemessage3.ogg              - CrazyGambler (coms)
+mission_talktogus_gus_ni_1ans.ogg                         - Bishop
+mission_talktogus_gus_ni_1msg.ogg                         - DiTritus
+mission_talktogus_gus_ni_2ans.ogg                         - Bishop
+mission_talktogus_gus_ni_2msg.ogg                         - DiTritus
+mission_talktogus_remotemessage1.ogg                      - Deepthroat
+mission_talktohuman_remotemessage1.ogg                    - CrazyGambler (coms)
+mission_talktohumphrey_comhumphrey_ni_1ans.ogg            - Humphrey (coms)
+mission_talktohumphrey_comhumphrey_ni_1msg.ogg            - DiTritus
+mission_talktohumphrey_comhumphrey_ni_2ans.ogg            -  Humphrey (coms)
+mission_talktohumphrey_comhumphrey_ni_2msg.ogg            -  DiTritus
+mission_talktoigor_igor_1ans.ogg                          - Bishop
+mission_talktoigor_igor_1msg.ogg                          - DiTritus
+mission_talktoigor_igor_initans1.ogg                      - Bishop
+mission_talktoigor_igor_initans2.ogg                      - Bishop
+mission_talktoigor_igor_initmsg1.ogg                      - DiTritus
+mission_talktoigor_igor_initmsg2.ogg                      - DiTritus
+mission_talktoigor2_comigor_ni_1ans.ogg                   - Bishop (coms)
+mission_talktoigor2_comigor_ni_1msg.ogg                   - DiTritus
+mission_talktoigor2_comigor_ni_2ans.ogg                   - Bishop
+mission_talktoigor2_comigor_ni_2msg.ogg                   - DiTritus
+mission_talktoigor2_remotemessage1.ogg                    - Merc (coms)
+mission_talktoigor2_remotemessage2.ogg                    - Merc (coms)
+mission_talktomayor_mayor_1ans.ogg                        - Mayor
+mission_talktomayor_mayor_1msg.ogg                        - DiTritus
+mission_talktomayor_mayor_initans1.ogg                    - Mayor
+mission_talktomayor_mayor_initans2.ogg                    - Mayor
+mission_talktomayor_mayor_initans3.ogg                    - Mayor
+mission_talktomayor_mayor_initmsg1.ogg                    - DiTritus
+mission_talktomayor_mayor_initmsg2.ogg                    - DiTritus
+mission_talktomayor_mayor_initmsg3.ogg                    - DiTritus
+mission_talktomayor1_mayor_initans1.ogg                   - Mayor
+mission_talktomayor1_mayor_initans2.ogg                   - Mayor
+mission_talktomayor1_mayor_initmsg1.ogg                   - DiTritus
+mission_talktomayor1_mayor_initmsg2.ogg                   - DiTritus
+mission_talktomayor2_mayor_initans1.ogg                   - Mayor
+mission_talktomayor2_mayor_initmsg1.ogg                   - DiTritus
+mission_talktorusty_rusty_ni_1ans.ogg                     - Rusty
+mission_talktorusty_rusty_ni_1msg.ogg                     - DiTritus
+mission_talktorusty_rusty_ni_2ans.ogg                     - Rusty
+mission_talktorusty_rusty_ni_2msg.ogg                     - DiTritus
+mission_talktotraitorius_comdeepthroat_ni_1ans.ogg        - Deepthroat
+mission_talktotraitorius_comdeepthroat_ni_1msg.ogg        - DiTritus
+mission_talktotraitorius_comdeepthroat_ni_2ans.ogg        - Deepthroat
+mission_talktotraitorius_comdeepthroat_ni_2msg.ogg        - DiTritus
+mission_talktotraitorius_comtraitorius_ni_1ans.ogg        - Functionary (coms)
+mission_talktotraitorius_comtraitorius_ni_1msg.ogg        - DiTritus
+mission_talktotraitorius2_traitorius_1ans.ogg             - Functionary
+mission_talktotraitorius2_traitorius_1msg.ogg             - DiTritus
+mission_talktotraitorius2_traitorius_2ans.ogg             - Functionary
+mission_talktotraitorius2_traitorius_2msg.ogg             - DiTritus
+mission_talktotraitorius2_traitorius_initans1.ogg         - Functionary
+mission_talktotraitorius2_traitorius_initmsg1.ogg         - DiTritus
+mission_talktotraitorius3_traitorius_initans1.ogg         - Functionary
+mission_talktotraitorius3_traitorius_initans2.ogg         - Functionary
+mission_talktotraitorius3_traitorius_initmsg1.ogg         - DiTritus
+mission_talktotraitorius3_traitorius_initmsg2.ogg         - DiTritus
+mission_testmayorship_remotemessage1.ogg                  - Messenger (coms)
+mission_testmayorship_remotemessage2.ogg                  - Messenger (coms)
+mission_testmayorship_remotemessage3.ogg                  - Messenger (coms)
+mission_testmayorship_remotemessage4.ogg                  - Messenger (coms)
+mission_testmayorship_remotemessage5.ogg                  - Messenger (coms)
+mission_theend_initans1.ogg                               - Mayor
+mission_theend_initans2.ogg                               - Berto
+mission_theend_initans3.ogg                               - Human
+mission_theend_initans4.ogg                               - Betty
+mission_theend_initmsg1.ogg                               - DiTritus
+mission_theend_initmsg2.ogg                               - DiTritus
+mission_theend_initmsg3.ogg                               - DiTritus
+mission_theend_initmsg4.ogg                               - DiTritus
+mission_versusagainstigor_igor_ni_1ans.ogg                - Bishop
+mission_versusagainstigor_igor_ni_1msg.ogg                - DiTritus
+mission_versusagainstigor_remotemessage1.ogg              - CrazyGambler (coms)
+mission_versusagainstigor_remotemessage2.ogg              - CrazyGambler (coms)
+mission_versusagainstigor_remotemessage3.ogg              - Bishop (coms)
+mission_versusagainstigor_remotemessage4.ogg              - Deepthroat
+mission_win1strace_remotemessage1.ogg                     - Deepthroat
+mission_win1strace_remotemessage2.ogg                     - Messenger (coms)
+mission_win1strace_remotemessage3.ogg                     - Messenger (coms)
+mission_win1strace_remotemessage4.ogg                     - Messenger (coms)
+mission_win2ndrace_remotemessage1.ogg                     - Messenger (coms)
+mission_win2ndrace_remotemessage2.ogg                     - Messenger (coms)
+mission_win2ndrace_remotemessage3.ogg                     - Messenger (coms)
+mission_winmortalrace_remotemessage1.ogg                  - CrazyGambler (coms)
+mission_winmortalrace_remotemessage2.ogg                  - Messenger (coms)
+mission_winmortalrace_remotemessage3.ogg                  - Messenger (coms)
+mission_winmortalrace_remotemessage4.ogg                  - Deepthroat
+mission_winracemultiplus_comficus_initans1.ogg            - Police (coms)
+mission_winracemultiplus_comficus_initans2.ogg            - Police (coms)
+mission_winracemultiplus_comficus_initans3.ogg            - Police (coms)
+mission_winracemultiplus_comficus_initans4.ogg            - Police (coms)
+mission_winracemultiplus_comficus_initmsg1.ogg            - DiTritus
+mission_winracemultiplus_comficus_initmsg2.ogg            - DiTritus
+mission_winracemultiplus_comficus_initmsg3.ogg            - DiTritus
+mission_winracemultiplus_comficus_initmsg4.ogg            - DiTritus
+mission_winracemultiplus_remotemessage1.ogg               - Police (coms)
+mission_winracemultiplus_remotemessage2.ogg               - Police (coms)
+mission_winracemultiplus_remotemessage3.ogg               - Police (coms)
+missiongetdatapart1_remotemessage1.ogg                    - BankMaster (coms)
+missiongetdatapart1_remotemessage2.ogg                    - BankMaster (coms)
+missiongetdatapart1_remotemessage3.ogg                    - BankMaster (coms)
+missiongetdatapart1_remotemessage5.ogg                    - BankMaster (coms)
+missiongetdatapart1_remotemessage6.ogg                    - BankMaster (coms)
+missiongetdatapart1_remotemessage7.ogg                    - Functionary (coms)
+missiongetdatapart1_remotemessage8.ogg                    - Functionary (coms)
+news_1stmurder_remotemessage1.ogg                         - Betty
+news_1stmurder_remotemessage2.ogg                         - Betty
+news_1stmurder_remotemessage3.ogg                         - Betty
+news_1stmurder_remotemessage4.ogg                         - Betty
+news_1stmurder_remotemessage5.ogg                         - Betty
+news_1stmurder_remotemessage6.ogg                         - Betty
+news_1stmurder_remotemessage7.ogg                         - Betty
+news_1stmurder_remotemessage8.ogg                         - Betty
+news_2ndmurder_remotemessage1.ogg                         - Betty
+news_3rdmurder_remotemessage1.ogg                         - Betty
+news_prologue_remotemessage1.ogg                          - Betty
+news_prologue_remotemessage2.ogg                          - Betty
+news_prologue_remotemessage3.ogg                          - Betty
+news_prologue_remotemessage4.ogg                          - Betty
+news_prologue_remotemessage5.ogg                          - Betty
+news_prologue_remotemessage6.ogg                          - Betty
+racecomebackbankdirector.ogg                              - BankDirector (coms)
+racecomebackbankmaster.ogg                                - BankMaster (coms)
+racecomebackberto.ogg                                     - Berto (coms)
+racecomebackbetty.ogg                                     - Betty (coms)
+racecomebackbishop.ogg                                    - Bishop (coms)
+racecomebackcrazygambler.ogg                              - CrazyGambler (coms)
+racecomebackfunctionary.ogg                               - Functionary (coms)
+racecomebackhumphrey.ogg                                  - Humphrey (coms)
+racecomebackmayor.ogg                                     - Mayor (coms)
+racecomebackmercs.ogg                                     - Merc (coms)
+racecomebackpolice.ogg                                    - Police (coms)
+racecomebackpoliceboss.ogg                                - PoliceBoss (coms)
+racehurryupbankdirector.ogg                               - BankDirector (coms)
+racehurryupbankmaster.ogg                                 - BankMaster (coms)
+racehurryupberto.ogg                                      - Berto (coms)
+racehurryupbetty.ogg                                      - Betty (coms)
+racehurryupbishop.ogg                                     - Bishop (coms)
+racehurryupcrazygambler.ogg                               - CrazyGambler (coms)
+racehurryupfunctionary.ogg                                - Functionary (coms)
+racehurryuphumphrey.ogg                                   - Humphrey (coms)
+racehurryupmayor.ogg                                      - Mayor (coms)
+racehurryupmercenarya.ogg                                 - Merc (coms)
+racehurryupmercenaryb.ogg                                 - Merc (coms)
+racehurryupmercenaryc.ogg                                 - Merc (coms)
+racehurryuppolice.ogg                                     - Police (coms)
+racehurryuppoliceboss.ogg                                 - PoliceBoss (coms)
+raceinterruptedbankdirector.ogg                           - BankDirector (coms)
+raceinterruptedbankmaster.ogg                             - BankMaster (coms)
+raceinterruptedberto.ogg                                  - Berto (coms)
+raceinterruptedbetty.ogg                                  - Betty (coms)
+raceinterruptedbishop.ogg                                 - Bishop (coms)
+raceinterruptedcrazygambler.ogg                           - CrazyGambler (coms)
+raceinterruptedfunctionary.ogg                            - Functionary (coms)
+raceinterruptedhumphrey.ogg                               - Humphrey (coms)
+raceinterruptedmayor.ogg                                  - Mayor (coms)
+raceinterruptedmercs.ogg                                  - Merc (coms)
+raceinterruptedpolice.ogg                                 - Police (coms)
+raceinterruptedpoliceboss.ogg                             - PoliceBoss (coms)
+raceleftbankdirector.ogg                                  - BankDirector (coms)
+raceleftbankmaster.ogg                                    - BankMaster (coms)
+raceleftberto.ogg                                         - Berto (coms)
+raceleftbetty.ogg                                         - Betty (coms)
+raceleftbishop.ogg                                        - Bishop (coms)
+raceleftcrazygambler.ogg                                  - CrazyGambler (coms)
+raceleftfunctionary.ogg                                   - Functionary (coms)
+racelefthumphrey.ogg                                      - Humphrey (coms)
+raceleftmayor.ogg                                         - Mayor (coms)
+raceleftmercs.ogg                                         - Merc (coms)
+raceleftpolice.ogg                                        - Police (coms)
+raceleftpoliceboss.ogg                                    - PoliceBoss (coms)
+raceloosebankdirector.ogg                                 - BankDirector (coms)
+raceloosebankmaster.ogg                                   - BankMaster (coms)
+racelooseberto.ogg                                        - Berto (coms)
+raceloosebetty.ogg                                        - Betty (coms)
+raceloosebishop.ogg                                       - Bishop (coms)
+raceloosecrazygambler.ogg                                 - CrazyGambler (coms)
+raceloosefunctionary.ogg                                  - Functionary (coms)
+raceloosehumphrey.ogg                                     - Humphrey (coms)
+raceloosemayor.ogg                                        - Mayor (coms)
+raceloosemercs.ogg                                        - Merc (coms)
+raceloosepolice.ogg                                       - Police (coms)
+raceloosepoliceboss.ogg                                   - PoliceBoss (coms)
+racestartbankdirector.ogg                                 - BankDirector (coms)
+racestartbankmaster.ogg                                   - BankMaster (coms)
+racestartberto.ogg                                        - Berto (coms)
+racestartbetty.ogg                                        - Betty (coms)
+racestartbishop.ogg                                       - Bishop (coms)
+racestartcrazygambler.ogg                                 - CrazyGambler (coms)
+racestartfunctionary.ogg                                  - Functionary (coms)
+racestarthumphrey.ogg                                     - Humphrey (coms)
+racestartmayor.ogg                                        - Mayor (coms)
+racestartmercs.ogg                                        - Merc (coms)
+racestartpolice.ogg                                       - Police (coms)
+racestartpoliceboss.ogg                                   - PoliceBoss (coms)
+racewin.ogg                                               - Functionary
+superdeal_dominationremotemessage1.ogg                    - CrazyGambler
+superdeal_dominationremotemessage2.ogg                    - CrazyGambler
+superdeal_dominationremotemessage3.ogg                    - CrazyGambler
+superdeal_dominationremotemessage4.ogg                    - CrazyGambler
+superdeal_dominationremotemessage5.ogg                    - CrazyGambler
+superdeal_dominationremotemessage6.ogg                    - CrazyGambler
+superdeal_eighth_remotemessage1.ogg                       - CrazyGambler (coms)
+superdeal_eighth_remotemessage2.ogg                       - CrazyGambler (coms)
+superdeal_eighth_remotemessage3.ogg                       - CrazyGambler (coms)
+superdeal_eighth_yes_ans.ogg                              - CrazyGambler
+superdeal_eleventh_remotemessage1.ogg                     - CrazyGambler (coms)
+superdeal_eleventh_remotemessage2.ogg                     - CrazyGambler (coms)
+superdeal_eleventh_remotemessage3.ogg                     - CrazyGambler (coms)
+superdeal_eleventh_yes_ans.ogg                            - CrazyGambler
+superdeal_fifth_remotemessage1.ogg                        - CrazyGambler (coms)
+superdeal_fifth_remotemessage2.ogg                        - CrazyGambler (coms)
+superdeal_fifth_remotemessage3.ogg                        - CrazyGambler (coms)
+superdeal_fifth_yes_ans.ogg                               - CrazyGambler
+superdeal_first_remotemessage1.ogg                        - CrazyGambler (coms)
+superdeal_first_remotemessage2.ogg                        - CrazyGambler (coms)
+superdeal_first_remotemessage3.ogg                        - CrazyGambler (coms)
+superdeal_first_yes_ans.ogg                               - CrazyGambler
+superdeal_fourth_remotemessage1.ogg                       - CrazyGambler (coms)
+superdeal_fourth_remotemessage2.ogg                       - CrazyGambler (coms)
+superdeal_fourth_remotemessage3.ogg                       - CrazyGambler (coms)
+superdeal_fourth_yes_ans.ogg                              - CrazyGambler
+superdeal_ninth_remotemessage1.ogg                        - CrazyGambler (coms)
+superdeal_ninth_remotemessage2.ogg                        - CrazyGambler (coms)
+superdeal_ninth_remotemessage3.ogg                        - CrazyGambler (coms)
+superdeal_ninth_yes_ans.ogg                               - CrazyGambler
+superdeal_payatenttion_remotemessage1.ogg                 - CrazyGambler
+superdeal_second_remotemessage1.ogg                       - CrazyGambler (coms)
+superdeal_second_remotemessage2.ogg                       - CrazyGambler (coms)
+superdeal_second_remotemessage3.ogg                       - CrazyGambler (coms)
+superdeal_second_yes_ans.ogg                              - CrazyGambler
+superdeal_seventh_remotemessage1.ogg                      - CrazyGambler (coms)
+superdeal_seventh_remotemessage2.ogg                      - CrazyGambler (coms)
+superdeal_seventh_remotemessage3.ogg                      - CrazyGambler (coms)
+superdeal_seventh_yes_ans.ogg                             - CrazyGambler
+superdeal_sixth_remotemessage1.ogg                        - CrazyGambler (coms)
+superdeal_sixth_remotemessage2.ogg                        - CrazyGambler (coms)
+superdeal_sixth_remotemessage3.ogg                        - CrazyGambler (coms)
+superdeal_sixth_yes_ans.ogg                               - CrazyGambler
+superdeal_tenth_remotemessage1.ogg                        - CrazyGambler (coms)
+superdeal_tenth_remotemessage2.ogg                        - CrazyGambler (coms)
+superdeal_tenth_remotemessage3.ogg                        - CrazyGambler (coms)
+superdeal_tenth_yes_ans.ogg                               - CrazyGambler
+superdeal_third_remotemessage1.ogg                        - CrazyGambler (coms)
+superdeal_third_remotemessage2.ogg                        - CrazyGambler (coms)
+superdeal_third_remotemessage3.ogg                        - CrazyGambler (coms)
+superdeal_third_yes_ans.ogg                               - CrazyGambler
+superdeal_twelfth_remotemessage1.ogg                      - CrazyGambler (coms)
+superdeal_twelfth_remotemessage2.ogg                      - CrazyGambler (coms)
+superdeal_twelfth_remotemessage3.ogg                      - CrazyGambler (coms)
+superdeal_twelfth_yes_ans.ogg                             - CrazyGambler
+winrevengecombatinitansbankdirector.ogg                   - BankDirector (coms)
+winrevengecombatinitansbankmaster.ogg                     - BankMaster (coms)
+winrevengecombatinitansberto.ogg                          - Berto (coms)
+winrevengecombatinitansbetty.ogg                          - Betty (coms)
+winrevengecombatinitansbishop.ogg                         - Bishop (coms)
+winrevengecombatinitanscrazygambler.ogg                   - CrazyGambler (coms)
+winrevengecombatinitansfunctionary.ogg                    - Functionary (coms)
+winrevengecombatinitanshumphrey.ogg                       - Humphrey (coms)
+winrevengecombatinitansmayor.ogg                          - Mayor (coms)
+winrevengecombatinitansmercs.ogg                          - Merc (coms)
+winrevengecombatinitanspolice.ogg                         - Police (coms)
+winrevengecombatinitanspoliceboss.ogg                     - PoliceBoss (coms)
+winrevengecombatinitmsg.ogg                               - DiTritus
+winrevengeraceinitansbankdirector.ogg                     - BankDirector (coms)
+winrevengeraceinitansbankmaster.ogg                       - BankMaster (coms)
+winrevengeraceinitansberto.ogg                            - Berto (coms)
+winrevengeraceinitansbetty.ogg                            - Betty (coms)
+winrevengeraceinitansbishop.ogg                           - Bishop (coms)
+winrevengeraceinitanscrazygambler.ogg                     - CrazyGambler (coms)
+winrevengeraceinitansfunctionary.ogg                      - Functionary (coms)
+winrevengeraceinitanshumphrey.ogg                         - Humphrey (coms)
+winrevengeraceinitansmayor.ogg                            - Mayor (coms)
+winrevengeraceinitansmercs.ogg                            - Merc (coms)
+winrevengeraceinitanspolice.ogg                           - Police (coms)
+winrevengeraceinitanspoliceboss.ogg                       - PoliceBoss (coms)
+winrevengeraceinitmsg.ogg                                 - DiTritus
