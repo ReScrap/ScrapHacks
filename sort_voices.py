@@ -1990,7 +1990,7 @@ voices_dir = None
 output_dir = None
 
 
-def recursive(input, output_dir, depth=0):
+def copy_voiceover_files(input, output_dir, depth=0):
     global voices_dir
 
     if type(input) is dict:
@@ -1998,7 +1998,7 @@ def recursive(input, output_dir, depth=0):
             new_out = os.path.abspath(output_dir + '/' + key)
             if not os.path.exists(new_out):
                 os.makedirs(new_out)
-            recursive(val, new_out, depth + 1)
+            copy_voiceover_files(val, new_out, depth + 1)
     else:
         for file in input:
             shutil.copy(voices_dir + '/' + file, output_dir)
@@ -2044,7 +2044,7 @@ To do this you can use ScraplandPackedExplorer or Scrapper""",
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    recursive(voices, output_dir)
+    copy_voiceover_files(voices, output_dir)
 
     pass
 
