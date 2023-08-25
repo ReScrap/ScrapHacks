@@ -2017,6 +2017,8 @@ def reverse_dict(input_dict: dict):
 
 
 def extract_voiceover_files(voices_loc, voices, output_dir):
+    # Yeah, I know that I can just store reversed
+    # voices dict but this file is already 2111 lines
     dirs = reverse_dict(voices)
 
     with open(voices_loc, "rb") as packed:
@@ -2072,9 +2074,6 @@ def copy_voiceover_files(voices_loc, input, output_dir, depth=0):
 
 
 def main():
-    global voices_loc
-    global output_dir
-
     parser = argparse.ArgumentParser(description="Categorize voiceovers of Scrapland characters.")
 
     parser.add_argument(
