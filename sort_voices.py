@@ -1989,7 +1989,8 @@ voices = {
 voices_dir = None
 output_dir = None
 
-def recursive(input, output_dir, depth = 0):
+
+def recursive(input, output_dir, depth=0):
     global voices_dir
 
     if type(input) is dict:
@@ -2002,6 +2003,7 @@ def recursive(input, output_dir, depth = 0):
         for file in input:
             shutil.copy(voices_dir + '/' + file, output_dir)
             print(f"{output_dir}\t => {file}")
+
 
 def main():
     global voices_dir
@@ -2045,6 +2047,7 @@ To do this you can use ScraplandPackedExplorer or Scrapper""",
     recursive(voices, output_dir)
 
     pass
+
 
 if __name__ == "__main__":
     main()
