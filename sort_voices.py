@@ -1986,7 +1986,7 @@ voices = {
     },
 }
 
-VOICES_PATH = "sounds/voices"
+VOICES_PACKED_PATH = "sounds/voices/"
 
 
 def bytes_to_int(b):
@@ -2037,8 +2037,8 @@ def extract_voiceover_files(voices_loc, voices, output_dir):
             data_size = bytes_to_int(packed.read(4))
             data_offset = bytes_to_int(packed.read(4))
 
-            if path.startswith(VOICES_PATH):
-                files[path[len(VOICES_PATH):]] = {"size": data_size, "offset": data_offset}
+            if path.startswith(VOICES_PACKED_PATH):
+                files[path[len(VOICES_PACKED_PATH):]] = {"size": data_size, "offset": data_offset}
 
         total_files = len(dirs)
         current_file = 1
@@ -2077,7 +2077,7 @@ def main():
     parser = argparse.ArgumentParser(description="Categorize voiceovers of Scrapland characters.")
 
     parser.add_argument(
-        "voices_location",
+        "voices_loc",
         metavar="<Voices Location>",
         type=str,
         help="Location where voiceover files are stored. Can be .packed file or folder where files was extracted from .packed",
