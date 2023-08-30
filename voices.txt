@@ -901,8 +901,8 @@ mission_facethemayor_remotemessage3.ogg                   - Deepthroat
 mission_finalfight_initans1.ogg                           - CrazyGambler
 mission_finalfight_initans2.ogg                           - Merc
 mission_finalfight_initmsg1.ogg                           - DiTritus
-mission_finalfight_initmsg2.ogg                           - CrazyGambler (coms)
-mission_finalfight_remotemessage1.ogg                     - Boss (coms)
+mission_finalfight_initmsg2.ogg                           - DiTritus
+mission_finalfight_remotemessage1.ogg                     - CrazyGambler (coms)
 mission_finalfight_remotemessage10.ogg                    - Boss (coms)
 mission_finalfight_remotemessage11.ogg                    - Boss (coms)
 mission_finalfight_remotemessage12.ogg                    - Boss (coms)
