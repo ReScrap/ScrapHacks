@@ -5,22 +5,27 @@ edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
+[lib]
+name = "scrap_parse"
+crate-type = ["cdylib"]
+
 [dependencies]
 anyhow = "1.0.69"
-binrw = "0.11.1"
+binrw = "0.13.3"
 chrono = { version = "0.4.23", features = ["serde"] }
-# chrono-humanize = "0.2.2"
-clap = { version = "4.1.6", features = ["derive"] }
-configparser = { version = "3.0.2", features = ["indexmap"] }
-flate2 = "1.0.25"
+configparser = { version = "3.0.3", features = ["indexmap"] }
 fs-err = "2.9.0"
-indexmap = { version = "1.9.2", features = ["serde"] }
-# memmap2 = "0.5.10"
-modular-bitfield = "0.11.2"
-rhexdump = "0.1.1"
+indexmap = { version = "2.1", features = ["serde"] }
+memmap2 = "0.9.0"
+rhexdump = "0.2.0"
 serde = { version = "1.0.152", features = ["derive"] }
-serde-pickle = "1.1.1"
-serde_json = { version = "1.0.95", features = ["preserve_order", "unbounded_depth"] }
 steamlocate = "1.1.0"
 walkdir = "2.3.3"
-obj = "0.10.2"
+bilge = "0.2.0"
+vfs = "0.10.0"
+pyo3 = { version = "0.20.0", features = ["extension-module", "abi3-py37","generate-import-lib"] }
+pythonize = "0.20.0"
+enum-iterator = "1.4.1"
+serde_json = { version = "1.0.108", features = ["preserve_order", "unbounded_depth"] }
+num-derive = "0.4.1"
+num-traits = "0.2.17"

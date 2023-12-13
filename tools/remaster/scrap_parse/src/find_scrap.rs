@@ -1,15 +1,13 @@
 use std::path::PathBuf;
-
 use steamlocate::SteamDir;
-use anyhow::{bail,Result};
 const APP_ID: u32 = 897610;
 
-pub(crate) fn get_executable() -> Result<PathBuf> {
+pub(crate) fn get_path() -> Option<PathBuf> {
     let Some(mut steam) = SteamDir::locate() else {
-        bail!("Failed to find steam folder");
+        return None;
     };
     let Some(app) = steam.app(&APP_ID) else {
-        bail!("App {APP_ID} is not installed!");
+        return None;
     };
-    Ok(app.path.clone())
+    Some(app.path.clone())
 }
