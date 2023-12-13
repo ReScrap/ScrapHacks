@@ -29,6 +29,7 @@ ScraplandTool is a Blender Add-On to load Scrapland .packed files and import map
 Requirements:
 
 - Python 3.x installed
+- Maturin python module installed (`pip install maturin`)
 - Reasonable up to date Rust toolchain installed
 - Blender 4.x
 
